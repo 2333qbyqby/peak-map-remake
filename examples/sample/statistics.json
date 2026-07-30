@@ -1,0 +1,26 @@
+{
+  "seed": 20260729,
+  "height_min_m": 18.0,
+  "height_max_m": 1172.082,
+  "mean_slope_grade": 3.0379,
+  "object_count": 503,
+  "object_categories": {
+    "large": 141,
+    "medium": 152,
+    "small": 142,
+    "vegetation": 68
+  },
+  "biome_sequence": [
+    "coast",
+    "rainforest",
+    "alpine",
+    "caldera",
+    "kiln",
+    "summit"
+  ],
+  "route_points": 29,
+  "route_max_grade": 6.787,
+  "route_hold_segments": 5,
+  "route_base_climbable_ratio": 0.8214,
+  "generation_mode": "controlled-chaos-analysis-only"
+}

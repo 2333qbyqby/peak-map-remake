@@ -1,0 +1,119 @@
+{
+  "seed": 20260729,
+  "resolution": 257,
+  "world_size": 720.0,
+  "world_height": 1200.0,
+  "second_biome": "rainforest",
+  "third_biome": "alpine",
+  "route_mode": "analyze",
+  "route_max_grade": 4.0,
+  "obj_resolution": 129,
+  "object_budget": 520,
+  "sea_level": 0.015,
+  "band_names": [
+    "coast",
+    "rainforest",
+    "alpine",
+    "caldera",
+    "kiln",
+    "summit"
+  ],
+  "profiles": {
+    "coast": {
+      "name": "coast",
+      "palette": [
+        218,
+        194,
+        135
+      ],
+      "relief": 0.35,
+      "roughness": 0.25,
+      "terrace": 0.3,
+      "large_density": 0.45,
+      "medium_density": 0.55,
+      "small_density": 0.35,
+      "vegetation_density": 0.45,
+      "hazard": null
+    },
+    "rainforest": {
+      "name": "rainforest",
+      "palette": [
+        47,
+        111,
+        72
+      ],
+      "relief": 0.78,
+      "roughness": 0.72,
+      "terrace": 0.12,
+      "large_density": 0.75,
+      "medium_density": 0.85,
+      "small_density": 0.9,
+      "vegetation_density": 1.0,
+      "hazard": "poison"
+    },
+    "alpine": {
+      "name": "alpine",
+      "palette": [
+        214,
+        230,
+        235
+      ],
+      "relief": 0.92,
+      "roughness": 0.78,
+      "terrace": 0.15,
+      "large_density": 1.0,
+      "medium_density": 0.85,
+      "small_density": 0.65,
+      "vegetation_density": 0.35,
+      "hazard": "cold"
+    },
+    "caldera": {
+      "name": "caldera",
+      "palette": [
+        66,
+        52,
+        48
+      ],
+      "relief": 0.82,
+      "roughness": 0.82,
+      "terrace": 0.25,
+      "large_density": 1.0,
+      "medium_density": 1.0,
+      "small_density": 0.9,
+      "vegetation_density": 0.05,
+      "hazard": "lava"
+    },
+    "kiln": {
+      "name": "kiln",
+      "palette": [
+        90,
+        66,
+        58
+      ],
+      "relief": 1.0,
+      "roughness": 0.9,
+      "terrace": 0.35,
+      "large_density": 0.85,
+      "medium_density": 1.0,
+      "small_density": 1.0,
+      "vegetation_density": 0.02,
+      "hazard": "heat"
+    },
+    "summit": {
+      "name": "summit",
+      "palette": [
+        113,
+        151,
+        83
+      ],
+      "relief": 0.3,
+      "roughness": 0.2,
+      "terrace": 0.42,
+      "large_density": 0.2,
+      "medium_density": 0.35,
+      "small_density": 0.45,
+      "vegetation_density": 0.6,
+      "hazard": null
+    }
+  }
+}

@@ -31,6 +31,9 @@
 四种轮换组合覆盖八个 profile。参数定义在
 `src/vertical_island_baker/config.py`。
 
+仓库内的 `examples/sample/` 保存了可直接查看的遮罩、清单、统计与预览；
+体积较大的 `terrain.obj` 未提交，可按样例目录中的命令重新生成。
+
 ## 快速开始
 
 ```bash

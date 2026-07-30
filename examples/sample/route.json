@@ -1,0 +1,236 @@
+{
+  "points": [
+    {
+      "index": 0,
+      "x": 0.0,
+      "y": 237.12,
+      "z": 315.0,
+      "grade": 0.0,
+      "needs_hold": false
+    },
+    {
+      "index": 1,
+      "x": 0.0,
+      "y": 271.065,
+      "z": 303.75,
+      "grade": 3.0173,
+      "needs_hold": false
+    },
+    {
+      "index": 2,
+      "x": 0.0,
+      "y": 300.541,
+      "z": 292.5,
+      "grade": 2.6201,
+      "needs_hold": false
+    },
+    {
+      "index": 3,
+      "x": 0.0,
+      "y": 329.124,
+      "z": 281.25,
+      "grade": 2.5408,
+      "needs_hold": false
+    },
+    {
+      "index": 4,
+      "x": -11.25,
+      "y": 437.104,
+      "z": 270.0,
+      "grade": 6.787,
+      "needs_hold": true
+    },
+    {
+      "index": 5,
+      "x": -11.25,
+      "y": 461.034,
+      "z": 258.75,
+      "grade": 2.1271,
+      "needs_hold": false
+    },
+    {
+      "index": 6,
+      "x": -11.25,
+      "y": 483.141,
+      "z": 247.5,
+      "grade": 1.9651,
+      "needs_hold": false
+    },
+    {
+      "index": 7,
+      "x": -11.25,
+      "y": 505.447,
+      "z": 236.25,
+      "grade": 1.9828,
+      "needs_hold": false
+    },
+    {
+      "index": 8,
+      "x": -11.25,
+      "y": 526.145,
+      "z": 225.0,
+      "grade": 1.8398,
+      "needs_hold": false
+    },
+    {
+      "index": 9,
+      "x": -22.5,
+      "y": 629.105,
+      "z": 213.75,
+      "grade": 6.4715,
+      "needs_hold": true
+    },
+    {
+      "index": 10,
+      "x": -22.5,
+      "y": 650.482,
+      "z": 202.5,
+      "grade": 1.9002,
+      "needs_hold": false
+    },
+    {
+      "index": 11,
+      "x": -22.5,
+      "y": 668.493,
+      "z": 191.25,
+      "grade": 1.601,
+      "needs_hold": false
+    },
+    {
+      "index": 12,
+      "x": -22.5,
+      "y": 685.745,
+      "z": 180.0,
+      "grade": 1.5335,
+      "needs_hold": false
+    },
+    {
+      "index": 13,
+      "x": -22.5,
+      "y": 694.073,
+      "z": 168.75,
+      "grade": 0.7403,
+      "needs_hold": false
+    },
+    {
+      "index": 14,
+      "x": -22.5,
+      "y": 701.365,
+      "z": 157.5,
+      "grade": 0.6482,
+      "needs_hold": false
+    },
+    {
+      "index": 15,
+      "x": -11.25,
+      "y": 789.95,
+      "z": 146.25,
+      "grade": 5.5679,
+      "needs_hold": true
+    },
+    {
+      "index": 16,
+      "x": -11.25,
+      "y": 819.944,
+      "z": 135.0,
+      "grade": 2.6661,
+      "needs_hold": false
+    },
+    {
+      "index": 17,
+      "x": -11.25,
+      "y": 846.068,
+      "z": 123.75,
+      "grade": 2.3221,
+      "needs_hold": false
+    },
+    {
+      "index": 18,
+      "x": -11.25,
+      "y": 866.629,
+      "z": 112.5,
+      "grade": 1.8276,
+      "needs_hold": false
+    },
+    {
+      "index": 19,
+      "x": -11.25,
+      "y": 886.649,
+      "z": 101.25,
+      "grade": 1.7795,
+      "needs_hold": false
+    },
+    {
+      "index": 20,
+      "x": -11.25,
+      "y": 903.971,
+      "z": 90.0,
+      "grade": 1.5397,
+      "needs_hold": false
+    },
+    {
+      "index": 21,
+      "x": -22.5,
+      "y": 935.977,
+      "z": 78.75,
+      "grade": 2.0117,
+      "needs_hold": false
+    },
+    {
+      "index": 22,
+      "x": -33.75,
+      "y": 1005.433,
+      "z": 67.5,
+      "grade": 4.3656,
+      "needs_hold": true
+    },
+    {
+      "index": 23,
+      "x": -33.75,
+      "y": 1036.751,
+      "z": 56.25,
+      "grade": 2.7838,
+      "needs_hold": false
+    },
+    {
+      "index": 24,
+      "x": -33.75,
+      "y": 1067.359,
+      "z": 45.0,
+      "grade": 2.7208,
+      "needs_hold": false
+    },
+    {
+      "index": 25,
+      "x": -22.5,
+      "y": 1147.622,
+      "z": 33.75,
+      "grade": 5.0448,
+      "needs_hold": true
+    },
+    {
+      "index": 26,
+      "x": -11.25,
+      "y": 1154.407,
+      "z": 22.5,
+      "grade": 0.4264,
+      "needs_hold": false
+    },
+    {
+      "index": 27,
+      "x": 0.0,
+      "y": 1159.264,
+      "z": 11.25,
+      "grade": 0.3053,
+      "needs_hold": false
+    },
+    {
+      "index": 28,
+      "x": 0.0,
+      "y": 1165.079,
+      "z": 0.0,
+      "grade": 0.5169,
+      "needs_hold": false
+    }
+  ]
+}

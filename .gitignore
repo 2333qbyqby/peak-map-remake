@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+.venv/
+dist/
+build/
+*.egg-info/
+.DS_Store
+
+# Locally extracted reference material must never be committed.
+references/private/
+references/**/*.assets
+references/**/*.bundle
+references/**/*.unity3d
+references/**/*.fbx
+references/**/*.glb
+references/**/*.png
+!references/README.md
+

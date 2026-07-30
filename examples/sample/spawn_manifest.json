@@ -1,0 +1,8555 @@
+{
+  "objects": [
+    {
+      "id": "obj-0000",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        -202.5,
+        82.588,
+        -264.375
+      ],
+      "rotation_y": 51.152,
+      "scale": [
+        19.458,
+        29.253,
+        20.222
+      ]
+    },
+    {
+      "id": "obj-0001",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        -50.625,
+        114.861,
+        331.875
+      ],
+      "rotation_y": 108.057,
+      "scale": [
+        12.148,
+        22.554,
+        19.964
+      ]
+    },
+    {
+      "id": "obj-0002",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        303.75,
+        80.815,
+        -182.812
+      ],
+      "rotation_y": 331.759,
+      "scale": [
+        13.01,
+        13.072,
+        13.538
+      ]
+    },
+    {
+      "id": "obj-0003",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        357.188,
+        82.902,
+        -67.5
+      ],
+      "rotation_y": 143.249,
+      "scale": [
+        14.938,
+        11.333,
+        10.427
+      ]
+    },
+    {
+      "id": "obj-0004",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        129.375,
+        127.765,
+        298.125
+      ],
+      "rotation_y": 168.005,
+      "scale": [
+        15.452,
+        16.47,
+        22.966
+      ]
+    },
+    {
+      "id": "obj-0005",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        345.938,
+        112.462,
+        -90.0
+      ],
+      "rotation_y": 211.86,
+      "scale": [
+        14.195,
+        25.388,
+        14.11
+      ]
+    },
+    {
+      "id": "obj-0006",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        281.25,
+        107.709,
+        -199.688
+      ],
+      "rotation_y": 169.562,
+      "scale": [
+        22.864,
+        26.372,
+        18.376
+      ]
+    },
+    {
+      "id": "obj-0007",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        64.688,
+        113.056,
+        -292.5
+      ],
+      "rotation_y": 78.532,
+      "scale": [
+        28.393,
+        32.725,
+        23.585
+      ]
+    },
+    {
+      "id": "obj-0008",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        354.375,
+        115.269,
+        28.125
+      ],
+      "rotation_y": 116.842,
+      "scale": [
+        17.472,
+        18.015,
+        17.35
+      ]
+    },
+    {
+      "id": "obj-0009",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        168.75,
+        79.543,
+        -272.812
+      ],
+      "rotation_y": 302.509,
+      "scale": [
+        15.649,
+        18.867,
+        13.067
+      ]
+    },
+    {
+      "id": "obj-0010",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        157.5,
+        97.808,
+        295.312
+      ],
+      "rotation_y": 288.725,
+      "scale": [
+        10.942,
+        24.317,
+        18.842
+      ]
+    },
+    {
+      "id": "obj-0011",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        199.688,
+        98.37,
+        -258.75
+      ],
+      "rotation_y": 312.163,
+      "scale": [
+        25.299,
+        35.643,
+        16.602
+      ]
+    },
+    {
+      "id": "obj-0012",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        348.75,
+        104.092,
+        92.812
+      ],
+      "rotation_y": 144.126,
+      "scale": [
+        16.203,
+        19.042,
+        13.838
+      ]
+    },
+    {
+      "id": "obj-0013",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        -149.062,
+        74.717,
+        -286.875
+      ],
+      "rotation_y": 206.15,
+      "scale": [
+        13.599,
+        17.265,
+        13.22
+      ]
+    },
+    {
+      "id": "obj-0014",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "coast",
+      "position": [
+        225.0,
+        94.752,
+        -244.688
+      ],
+      "rotation_y": 326.542,
+      "scale": [
+        16.39,
+        16.925,
+        15.978
+      ]
+    },
+    {
+      "id": "obj-0015",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -47.812,
+        54.554,
+        343.125
+      ],
+      "rotation_y": 329.762,
+      "scale": [
+        7.694,
+        6.847,
+        6.26
+      ]
+    },
+    {
+      "id": "obj-0016",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -8.438,
+        117.478,
+        -300.938
+      ],
+      "rotation_y": 20.226,
+      "scale": [
+        7.018,
+        10.599,
+        7.044
+      ]
+    },
+    {
+      "id": "obj-0017",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -239.062,
+        72.155,
+        236.25
+      ],
+      "rotation_y": 274.825,
+      "scale": [
+        8.649,
+        10.89,
+        12.848
+      ]
+    },
+    {
+      "id": "obj-0018",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -8.438,
+        41.817,
+        340.312
+      ],
+      "rotation_y": 266.216,
+      "scale": [
+        5.438,
+        6.722,
+        6.126
+      ]
+    },
+    {
+      "id": "obj-0019",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -345.938,
+        106.417,
+        0.0
+      ],
+      "rotation_y": 319.112,
+      "scale": [
+        10.696,
+        9.428,
+        11.548
+      ]
+    },
+    {
+      "id": "obj-0020",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        354.375,
+        100.374,
+        -64.688
+      ],
+      "rotation_y": 217.353,
+      "scale": [
+        10.586,
+        7.848,
+        9.035
+      ]
+    },
+    {
+      "id": "obj-0021",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -292.5,
+        94.348,
+        171.562
+      ],
+      "rotation_y": 359.46,
+      "scale": [
+        5.298,
+        5.917,
+        4.087
+      ]
+    },
+    {
+      "id": "obj-0022",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        19.688,
+        116.323,
+        326.25
+      ],
+      "rotation_y": 246.898,
+      "scale": [
+        9.04,
+        11.111,
+        6.754
+      ]
+    },
+    {
+      "id": "obj-0023",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -337.5,
+        93.023,
+        -64.688
+      ],
+      "rotation_y": 66.456,
+      "scale": [
+        6.916,
+        7.212,
+        10.451
+      ]
+    },
+    {
+      "id": "obj-0024",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        250.312,
+        95.583,
+        225.0
+      ],
+      "rotation_y": 351.42,
+      "scale": [
+        9.636,
+        6.806,
+        7.885
+      ]
+    },
+    {
+      "id": "obj-0025",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -160.312,
+        38.369,
+        -286.875
+      ],
+      "rotation_y": 317.856,
+      "scale": [
+        10.135,
+        14.192,
+        8.179
+      ]
+    },
+    {
+      "id": "obj-0026",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        157.5,
+        119.846,
+        289.688
+      ],
+      "rotation_y": 344.619,
+      "scale": [
+        8.429,
+        12.37,
+        8.865
+      ]
+    },
+    {
+      "id": "obj-0027",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        25.312,
+        91.322,
+        -303.75
+      ],
+      "rotation_y": 72.434,
+      "scale": [
+        7.753,
+        6.274,
+        6.471
+      ]
+    },
+    {
+      "id": "obj-0028",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        185.625,
+        81.816,
+        -267.188
+      ],
+      "rotation_y": 201.206,
+      "scale": [
+        4.785,
+        8.741,
+        4.399
+      ]
+    },
+    {
+      "id": "obj-0029",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -286.875,
+        82.574,
+        -199.688
+      ],
+      "rotation_y": 51.194,
+      "scale": [
+        6.209,
+        4.744,
+        6.075
+      ]
+    },
+    {
+      "id": "obj-0030",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        360.0,
+        78.675,
+        -19.688
+      ],
+      "rotation_y": 36.183,
+      "scale": [
+        7.669,
+        5.941,
+        6.242
+      ]
+    },
+    {
+      "id": "obj-0031",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        208.125,
+        90.407,
+        -255.938
+      ],
+      "rotation_y": 133.589,
+      "scale": [
+        8.05,
+        8.997,
+        10.01
+      ]
+    },
+    {
+      "id": "obj-0032",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "coast",
+      "position": [
+        -300.938,
+        122.677,
+        -157.5
+      ],
+      "rotation_y": 308.117,
+      "scale": [
+        9.528,
+        9.815,
+        8.138
+      ]
+    },
+    {
+      "id": "obj-0033",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        -188.438,
+        103.708,
+        -267.188
+      ],
+      "rotation_y": 174.73,
+      "scale": [
+        6.88,
+        7.742,
+        6.686
+      ]
+    },
+    {
+      "id": "obj-0034",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        -255.938,
+        69.751,
+        -236.25
+      ],
+      "rotation_y": 214.979,
+      "scale": [
+        3.569,
+        5.711,
+        5.878
+      ]
+    },
+    {
+      "id": "obj-0035",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        196.875,
+        89.49,
+        -261.562
+      ],
+      "rotation_y": 330.657,
+      "scale": [
+        1.897,
+        1.964,
+        2.408
+      ]
+    },
+    {
+      "id": "obj-0036",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        -337.5,
+        109.402,
+        53.438
+      ],
+      "rotation_y": 176.634,
+      "scale": [
+        1.817,
+        1.29,
+        1.222
+      ]
+    },
+    {
+      "id": "obj-0037",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        317.812,
+        102.264,
+        154.688
+      ],
+      "rotation_y": 27.585,
+      "scale": [
+        2.136,
+        3.208,
+        1.911
+      ]
+    },
+    {
+      "id": "obj-0038",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        -345.938,
+        83.919,
+        30.938
+      ],
+      "rotation_y": 277.879,
+      "scale": [
+        2.116,
+        2.416,
+        1.418
+      ]
+    },
+    {
+      "id": "obj-0039",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        236.25,
+        108.967,
+        233.438
+      ],
+      "rotation_y": 339.145,
+      "scale": [
+        5.643,
+        5.477,
+        5.647
+      ]
+    },
+    {
+      "id": "obj-0040",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        -208.125,
+        68.226,
+        258.75
+      ],
+      "rotation_y": 104.969,
+      "scale": [
+        3.915,
+        5.721,
+        6.507
+      ]
+    },
+    {
+      "id": "obj-0041",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        -267.188,
+        121.014,
+        -213.75
+      ],
+      "rotation_y": 304.233,
+      "scale": [
+        2.455,
+        3.804,
+        3.027
+      ]
+    },
+    {
+      "id": "obj-0042",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        315.0,
+        111.705,
+        -157.5
+      ],
+      "rotation_y": 259.957,
+      "scale": [
+        3.633,
+        4.452,
+        4.024
+      ]
+    },
+    {
+      "id": "obj-0043",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        120.938,
+        71.75,
+        312.188
+      ],
+      "rotation_y": 290.531,
+      "scale": [
+        1.667,
+        1.466,
+        1.828
+      ]
+    },
+    {
+      "id": "obj-0044",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "coast",
+      "position": [
+        -118.125,
+        55.75,
+        -298.125
+      ],
+      "rotation_y": 81.966,
+      "scale": [
+        3.643,
+        5.546,
+        5.045
+      ]
+    },
+    {
+      "id": "obj-0045",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -115.312,
+        324.568,
+        261.562
+      ],
+      "rotation_y": 304.389,
+      "scale": [
+        15.498,
+        19.969,
+        12.464
+      ]
+    },
+    {
+      "id": "obj-0046",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -191.25,
+        306.674,
+        -227.812
+      ],
+      "rotation_y": 344.043,
+      "scale": [
+        19.358,
+        21.518,
+        24.743
+      ]
+    },
+    {
+      "id": "obj-0047",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -90.0,
+        272.427,
+        -275.625
+      ],
+      "rotation_y": 127.814,
+      "scale": [
+        23.616,
+        20.687,
+        15.969
+      ]
+    },
+    {
+      "id": "obj-0048",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -42.188,
+        272.735,
+        -278.438
+      ],
+      "rotation_y": 323.999,
+      "scale": [
+        13.682,
+        12.468,
+        20.906
+      ]
+    },
+    {
+      "id": "obj-0049",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -312.188,
+        290.907,
+        -33.75
+      ],
+      "rotation_y": 16.384,
+      "scale": [
+        21.295,
+        18.674,
+        26.032
+      ]
+    },
+    {
+      "id": "obj-0050",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        340.312,
+        231.782,
+        53.438
+      ],
+      "rotation_y": 153.148,
+      "scale": [
+        11.775,
+        22.998,
+        12.679
+      ]
+    },
+    {
+      "id": "obj-0051",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -219.375,
+        132.581,
+        -244.688
+      ],
+      "rotation_y": 191.3,
+      "scale": [
+        11.067,
+        19.465,
+        17.999
+      ]
+    },
+    {
+      "id": "obj-0052",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        264.375,
+        278.348,
+        182.812
+      ],
+      "rotation_y": 313.475,
+      "scale": [
+        18.277,
+        28.77,
+        30.552
+      ]
+    },
+    {
+      "id": "obj-0053",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        236.25,
+        276.692,
+        -202.5
+      ],
+      "rotation_y": 145.144,
+      "scale": [
+        15.957,
+        17.573,
+        16.085
+      ]
+    },
+    {
+      "id": "obj-0054",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -149.062,
+        326.19,
+        244.688
+      ],
+      "rotation_y": 262.351,
+      "scale": [
+        15.325,
+        20.524,
+        13.46
+      ]
+    },
+    {
+      "id": "obj-0055",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        0.0,
+        254.492,
+        -281.25
+      ],
+      "rotation_y": 282.087,
+      "scale": [
+        21.777,
+        29.869,
+        24.354
+      ]
+    },
+    {
+      "id": "obj-0056",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -323.438,
+        258.982,
+        16.875
+      ],
+      "rotation_y": 24.179,
+      "scale": [
+        15.871,
+        25.166,
+        12.295
+      ]
+    },
+    {
+      "id": "obj-0057",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -292.5,
+        310.954,
+        98.438
+      ],
+      "rotation_y": 136.06,
+      "scale": [
+        20.032,
+        25.632,
+        25.635
+      ]
+    },
+    {
+      "id": "obj-0058",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -270.0,
+        298.522,
+        151.875
+      ],
+      "rotation_y": 152.999,
+      "scale": [
+        22.922,
+        20.238,
+        20.018
+      ]
+    },
+    {
+      "id": "obj-0059",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        109.688,
+        126.72,
+        -272.812
+      ],
+      "rotation_y": 104.161,
+      "scale": [
+        17.41,
+        25.439,
+        22.865
+      ]
+    },
+    {
+      "id": "obj-0060",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        317.812,
+        272.618,
+        101.25
+      ],
+      "rotation_y": 347.012,
+      "scale": [
+        14.963,
+        17.267,
+        17.293
+      ]
+    },
+    {
+      "id": "obj-0061",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        112.5,
+        336.733,
+        -233.438
+      ],
+      "rotation_y": 294.056,
+      "scale": [
+        17.669,
+        27.521,
+        22.564
+      ]
+    },
+    {
+      "id": "obj-0062",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        92.812,
+        243.763,
+        295.312
+      ],
+      "rotation_y": 163.642,
+      "scale": [
+        23.322,
+        21.347,
+        23.31
+      ]
+    },
+    {
+      "id": "obj-0063",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -182.812,
+        325.111,
+        227.812
+      ],
+      "rotation_y": 15.471,
+      "scale": [
+        11.367,
+        23.995,
+        15.685
+      ]
+    },
+    {
+      "id": "obj-0064",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        120.938,
+        300.091,
+        267.188
+      ],
+      "rotation_y": 319.709,
+      "scale": [
+        16.526,
+        18.261,
+        26.263
+      ]
+    },
+    {
+      "id": "obj-0065",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -90.0,
+        309.398,
+        278.438
+      ],
+      "rotation_y": 87.587,
+      "scale": [
+        12.907,
+        14.361,
+        11.477
+      ]
+    },
+    {
+      "id": "obj-0066",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        -230.625,
+        328.206,
+        194.062
+      ],
+      "rotation_y": 344.006,
+      "scale": [
+        12.513,
+        15.496,
+        8.214
+      ]
+    },
+    {
+      "id": "obj-0067",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        267.188,
+        327.06,
+        151.875
+      ],
+      "rotation_y": 240.437,
+      "scale": [
+        17.516,
+        33.341,
+        24.002
+      ]
+    },
+    {
+      "id": "obj-0068",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        303.75,
+        327.594,
+        70.312
+      ],
+      "rotation_y": 13.349,
+      "scale": [
+        11.429,
+        9.912,
+        10.676
+      ]
+    },
+    {
+      "id": "obj-0069",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "rainforest",
+      "position": [
+        165.938,
+        335.571,
+        -227.812
+      ],
+      "rotation_y": 108.808,
+      "scale": [
+        15.615,
+        18.161,
+        8.816
+      ]
+    },
+    {
+      "id": "obj-0070",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        286.875,
+        274.033,
+        157.5
+      ],
+      "rotation_y": 276.534,
+      "scale": [
+        7.316,
+        9.569,
+        9.545
+      ]
+    },
+    {
+      "id": "obj-0071",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        317.812,
+        307.595,
+        -2.812
+      ],
+      "rotation_y": 304.551,
+      "scale": [
+        7.869,
+        7.816,
+        8.921
+      ]
+    },
+    {
+      "id": "obj-0072",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -84.375,
+        284.527,
+        -272.812
+      ],
+      "rotation_y": 119.941,
+      "scale": [
+        12.777,
+        13.338,
+        9.919
+      ]
+    },
+    {
+      "id": "obj-0073",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        19.688,
+        261.747,
+        306.562
+      ],
+      "rotation_y": 324.144,
+      "scale": [
+        7.212,
+        5.094,
+        5.701
+      ]
+    },
+    {
+      "id": "obj-0074",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -284.062,
+        327.943,
+        104.062
+      ],
+      "rotation_y": 239.9,
+      "scale": [
+        10.053,
+        11.101,
+        10.063
+      ]
+    },
+    {
+      "id": "obj-0075",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        312.188,
+        136.546,
+        149.062
+      ],
+      "rotation_y": 144.071,
+      "scale": [
+        4.849,
+        9.079,
+        5.554
+      ]
+    },
+    {
+      "id": "obj-0076",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -241.875,
+        337.315,
+        174.375
+      ],
+      "rotation_y": 34.674,
+      "scale": [
+        4.72,
+        5.357,
+        5.931
+      ]
+    },
+    {
+      "id": "obj-0077",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        168.75,
+        286.449,
+        253.125
+      ],
+      "rotation_y": 287.839,
+      "scale": [
+        8.632,
+        6.767,
+        10.666
+      ]
+    },
+    {
+      "id": "obj-0078",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -253.125,
+        340.655,
+        -163.125
+      ],
+      "rotation_y": 23.154,
+      "scale": [
+        4.688,
+        7.521,
+        7.854
+      ]
+    },
+    {
+      "id": "obj-0079",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -317.812,
+        241.283,
+        81.562
+      ],
+      "rotation_y": 324.196,
+      "scale": [
+        8.9,
+        10.199,
+        7.028
+      ]
+    },
+    {
+      "id": "obj-0080",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        25.312,
+        320.369,
+        -253.125
+      ],
+      "rotation_y": 328.748,
+      "scale": [
+        5.493,
+        6.743,
+        4.63
+      ]
+    },
+    {
+      "id": "obj-0081",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -90.0,
+        325.052,
+        -258.75
+      ],
+      "rotation_y": 183.525,
+      "scale": [
+        8.542,
+        6.537,
+        9.429
+      ]
+    },
+    {
+      "id": "obj-0082",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -137.812,
+        322.901,
+        -247.5
+      ],
+      "rotation_y": 243.233,
+      "scale": [
+        7.293,
+        9.968,
+        9.887
+      ]
+    },
+    {
+      "id": "obj-0083",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        306.562,
+        312.962,
+        84.375
+      ],
+      "rotation_y": 251.872,
+      "scale": [
+        9.475,
+        12.274,
+        8.783
+      ]
+    },
+    {
+      "id": "obj-0084",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -331.875,
+        126.981,
+        -53.438
+      ],
+      "rotation_y": 274.955,
+      "scale": [
+        5.21,
+        5.775,
+        6.295
+      ]
+    },
+    {
+      "id": "obj-0085",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        331.875,
+        260.603,
+        47.812
+      ],
+      "rotation_y": 305.403,
+      "scale": [
+        10.547,
+        9.36,
+        10.841
+      ]
+    },
+    {
+      "id": "obj-0086",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -286.875,
+        272.875,
+        -149.062
+      ],
+      "rotation_y": 40.043,
+      "scale": [
+        6.881,
+        6.206,
+        8.884
+      ]
+    },
+    {
+      "id": "obj-0087",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -309.375,
+        300.97,
+        19.688
+      ],
+      "rotation_y": 64.074,
+      "scale": [
+        5.553,
+        4.043,
+        4.88
+      ]
+    },
+    {
+      "id": "obj-0088",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -303.75,
+        305.522,
+        -50.625
+      ],
+      "rotation_y": 85.083,
+      "scale": [
+        13.364,
+        11.399,
+        10.755
+      ]
+    },
+    {
+      "id": "obj-0089",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        70.312,
+        278.104,
+        289.688
+      ],
+      "rotation_y": 247.335,
+      "scale": [
+        8.249,
+        10.664,
+        11.607
+      ]
+    },
+    {
+      "id": "obj-0090",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        247.5,
+        323.012,
+        177.188
+      ],
+      "rotation_y": 131.297,
+      "scale": [
+        8.162,
+        11.088,
+        10.219
+      ]
+    },
+    {
+      "id": "obj-0091",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -329.062,
+        241.127,
+        11.25
+      ],
+      "rotation_y": 187.253,
+      "scale": [
+        12.975,
+        13.116,
+        8.672
+      ]
+    },
+    {
+      "id": "obj-0092",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        239.062,
+        308.258,
+        191.25
+      ],
+      "rotation_y": 237.571,
+      "scale": [
+        4.349,
+        6.991,
+        3.418
+      ]
+    },
+    {
+      "id": "obj-0093",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -309.375,
+        137.461,
+        118.125
+      ],
+      "rotation_y": 229.374,
+      "scale": [
+        7.862,
+        13.756,
+        14.538
+      ]
+    },
+    {
+      "id": "obj-0094",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        199.688,
+        344.601,
+        202.5
+      ],
+      "rotation_y": 85.363,
+      "scale": [
+        6.437,
+        11.99,
+        7.211
+      ]
+    },
+    {
+      "id": "obj-0095",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -120.938,
+        339.526,
+        -247.5
+      ],
+      "rotation_y": 52.935,
+      "scale": [
+        12.264,
+        9.626,
+        12.702
+      ]
+    },
+    {
+      "id": "obj-0096",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -264.375,
+        340.414,
+        132.188
+      ],
+      "rotation_y": 248.893,
+      "scale": [
+        7.295,
+        6.184,
+        6.901
+      ]
+    },
+    {
+      "id": "obj-0097",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "rainforest",
+      "position": [
+        -261.562,
+        331.494,
+        143.438
+      ],
+      "rotation_y": 99.082,
+      "scale": [
+        4.189,
+        4.844,
+        4.975
+      ]
+    },
+    {
+      "id": "obj-0098",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -241.875,
+        280.619,
+        -205.312
+      ],
+      "rotation_y": 231.436,
+      "scale": [
+        3.38,
+        3.916,
+        4.659
+      ]
+    },
+    {
+      "id": "obj-0099",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        348.75,
+        113.812,
+        -64.688
+      ],
+      "rotation_y": 78.712,
+      "scale": [
+        1.623,
+        2.512,
+        1.679
+      ]
+    },
+    {
+      "id": "obj-0100",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        253.125,
+        332.929,
+        165.938
+      ],
+      "rotation_y": 309.74,
+      "scale": [
+        4.925,
+        5.457,
+        4.357
+      ]
+    },
+    {
+      "id": "obj-0101",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -56.25,
+        273.814,
+        -278.438
+      ],
+      "rotation_y": 334.019,
+      "scale": [
+        2.401,
+        4.819,
+        3.046
+      ]
+    },
+    {
+      "id": "obj-0102",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        343.125,
+        225.586,
+        19.688
+      ],
+      "rotation_y": 58.328,
+      "scale": [
+        4.119,
+        6.909,
+        5.768
+      ]
+    },
+    {
+      "id": "obj-0103",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        50.625,
+        254.332,
+        -275.625
+      ],
+      "rotation_y": 174.629,
+      "scale": [
+        2.167,
+        2.33,
+        1.484
+      ]
+    },
+    {
+      "id": "obj-0104",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -309.375,
+        290.318,
+        -47.812
+      ],
+      "rotation_y": 120.058,
+      "scale": [
+        1.629,
+        1.659,
+        2.008
+      ]
+    },
+    {
+      "id": "obj-0105",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -239.062,
+        290.799,
+        202.5
+      ],
+      "rotation_y": 226.754,
+      "scale": [
+        5.323,
+        7.648,
+        6.144
+      ]
+    },
+    {
+      "id": "obj-0106",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        163.125,
+        306.272,
+        247.5
+      ],
+      "rotation_y": 180.389,
+      "scale": [
+        3.967,
+        3.983,
+        2.541
+      ]
+    },
+    {
+      "id": "obj-0107",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -222.188,
+        268.023,
+        -225.0
+      ],
+      "rotation_y": 254.591,
+      "scale": [
+        2.729,
+        2.667,
+        3.526
+      ]
+    },
+    {
+      "id": "obj-0108",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        281.25,
+        331.972,
+        120.938
+      ],
+      "rotation_y": 169.233,
+      "scale": [
+        4.164,
+        3.187,
+        3.042
+      ]
+    },
+    {
+      "id": "obj-0109",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -219.375,
+        257.82,
+        227.812
+      ],
+      "rotation_y": 15.589,
+      "scale": [
+        4.345,
+        5.255,
+        3.3
+      ]
+    },
+    {
+      "id": "obj-0110",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        149.062,
+        315.343,
+        250.312
+      ],
+      "rotation_y": 317.669,
+      "scale": [
+        1.715,
+        2.344,
+        1.908
+      ]
+    },
+    {
+      "id": "obj-0111",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -286.875,
+        337.98,
+        -78.75
+      ],
+      "rotation_y": 314.744,
+      "scale": [
+        2.354,
+        2.025,
+        1.608
+      ]
+    },
+    {
+      "id": "obj-0112",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -272.812,
+        124.306,
+        -205.312
+      ],
+      "rotation_y": 356.165,
+      "scale": [
+        2.954,
+        3.705,
+        2.566
+      ]
+    },
+    {
+      "id": "obj-0113",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -14.062,
+        236.807,
+        315.0
+      ],
+      "rotation_y": 248.798,
+      "scale": [
+        3.173,
+        3.986,
+        3.873
+      ]
+    },
+    {
+      "id": "obj-0114",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -317.812,
+        277.068,
+        16.875
+      ],
+      "rotation_y": 119.295,
+      "scale": [
+        4.39,
+        4.491,
+        3.478
+      ]
+    },
+    {
+      "id": "obj-0115",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -42.188,
+        298.983,
+        292.5
+      ],
+      "rotation_y": 57.961,
+      "scale": [
+        4.015,
+        3.637,
+        4.746
+      ]
+    },
+    {
+      "id": "obj-0116",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -160.312,
+        128.877,
+        -272.812
+      ],
+      "rotation_y": 325.19,
+      "scale": [
+        3.752,
+        3.544,
+        4.487
+      ]
+    },
+    {
+      "id": "obj-0117",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -42.188,
+        288.545,
+        -272.812
+      ],
+      "rotation_y": 342.26,
+      "scale": [
+        3.774,
+        5.782,
+        5.039
+      ]
+    },
+    {
+      "id": "obj-0118",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -210.938,
+        128.644,
+        -250.312
+      ],
+      "rotation_y": 124.281,
+      "scale": [
+        3.05,
+        3.465,
+        2.704
+      ]
+    },
+    {
+      "id": "obj-0119",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -61.875,
+        248.738,
+        312.188
+      ],
+      "rotation_y": 37.271,
+      "scale": [
+        6.199,
+        7.484,
+        3.61
+      ]
+    },
+    {
+      "id": "obj-0120",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        289.688,
+        257.144,
+        163.125
+      ],
+      "rotation_y": 178.032,
+      "scale": [
+        5.624,
+        6.453,
+        4.232
+      ]
+    },
+    {
+      "id": "obj-0121",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        303.75,
+        298.876,
+        106.875
+      ],
+      "rotation_y": 218.834,
+      "scale": [
+        6.016,
+        5.901,
+        5.995
+      ]
+    },
+    {
+      "id": "obj-0122",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        233.438,
+        121.263,
+        -230.625
+      ],
+      "rotation_y": 58.867,
+      "scale": [
+        6.875,
+        7.051,
+        5.056
+      ]
+    },
+    {
+      "id": "obj-0123",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        140.625,
+        252.259,
+        -258.75
+      ],
+      "rotation_y": 120.745,
+      "scale": [
+        2.642,
+        3.315,
+        3.434
+      ]
+    },
+    {
+      "id": "obj-0124",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        -210.938,
+        336.148,
+        -202.5
+      ],
+      "rotation_y": 201.967,
+      "scale": [
+        5.243,
+        6.182,
+        4.72
+      ]
+    },
+    {
+      "id": "obj-0125",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        309.375,
+        319.784,
+        56.25
+      ],
+      "rotation_y": 105.69,
+      "scale": [
+        2.174,
+        2.763,
+        2.945
+      ]
+    },
+    {
+      "id": "obj-0126",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        309.375,
+        321.3,
+        47.812
+      ],
+      "rotation_y": 71.627,
+      "scale": [
+        3.931,
+        4.173,
+        2.469
+      ]
+    },
+    {
+      "id": "obj-0127",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "rainforest",
+      "position": [
+        98.438,
+        314.544,
+        -241.875
+      ],
+      "rotation_y": 62.46,
+      "scale": [
+        1.649,
+        2.566,
+        1.877
+      ]
+    },
+    {
+      "id": "obj-0128",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -42.188,
+        324.272,
+        281.25
+      ],
+      "rotation_y": 209.392,
+      "scale": [
+        2.063,
+        1.608,
+        2.082
+      ]
+    },
+    {
+      "id": "obj-0129",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        348.75,
+        119.127,
+        -56.25
+      ],
+      "rotation_y": 287.106,
+      "scale": [
+        2.221,
+        1.916,
+        2.186
+      ]
+    },
+    {
+      "id": "obj-0130",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        177.188,
+        332.873,
+        225.0
+      ],
+      "rotation_y": 220.34,
+      "scale": [
+        2.217,
+        1.926,
+        1.627
+      ]
+    },
+    {
+      "id": "obj-0131",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        348.75,
+        118.352,
+        61.875
+      ],
+      "rotation_y": 126.151,
+      "scale": [
+        1.626,
+        2.386,
+        1.786
+      ]
+    },
+    {
+      "id": "obj-0132",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -73.125,
+        283.171,
+        295.312
+      ],
+      "rotation_y": 294.262,
+      "scale": [
+        0.744,
+        1.046,
+        1.133
+      ]
+    },
+    {
+      "id": "obj-0133",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -61.875,
+        299.945,
+        289.688
+      ],
+      "rotation_y": 115.683,
+      "scale": [
+        1.135,
+        0.862,
+        1.065
+      ]
+    },
+    {
+      "id": "obj-0134",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        168.75,
+        333.189,
+        230.625
+      ],
+      "rotation_y": 312.417,
+      "scale": [
+        1.842,
+        1.884,
+        2.173
+      ]
+    },
+    {
+      "id": "obj-0135",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        199.688,
+        344.601,
+        202.5
+      ],
+      "rotation_y": 353.88,
+      "scale": [
+        1.587,
+        1.395,
+        1.684
+      ]
+    },
+    {
+      "id": "obj-0136",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -84.375,
+        306.961,
+        281.25
+      ],
+      "rotation_y": 106.88,
+      "scale": [
+        1.692,
+        2.48,
+        1.965
+      ]
+    },
+    {
+      "id": "obj-0137",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -340.312,
+        120.085,
+        -16.875
+      ],
+      "rotation_y": 20.204,
+      "scale": [
+        1.283,
+        1.897,
+        1.116
+      ]
+    },
+    {
+      "id": "obj-0138",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        348.75,
+        120.546,
+        53.438
+      ],
+      "rotation_y": 279.497,
+      "scale": [
+        1.575,
+        2.335,
+        1.275
+      ]
+    },
+    {
+      "id": "obj-0139",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -47.812,
+        322.857,
+        281.25
+      ],
+      "rotation_y": 153.187,
+      "scale": [
+        2.267,
+        3.581,
+        2.741
+      ]
+    },
+    {
+      "id": "obj-0140",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        160.312,
+        337.241,
+        233.438
+      ],
+      "rotation_y": 250.22,
+      "scale": [
+        1.728,
+        1.88,
+        1.373
+      ]
+    },
+    {
+      "id": "obj-0141",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        191.25,
+        344.68,
+        208.125
+      ],
+      "rotation_y": 66.18,
+      "scale": [
+        1.477,
+        2.582,
+        2.045
+      ]
+    },
+    {
+      "id": "obj-0142",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        143.438,
+        332.222,
+        244.688
+      ],
+      "rotation_y": 84.269,
+      "scale": [
+        0.957,
+        1.053,
+        1.01
+      ]
+    },
+    {
+      "id": "obj-0143",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -78.75,
+        292.269,
+        289.688
+      ],
+      "rotation_y": 42.427,
+      "scale": [
+        1.071,
+        0.981,
+        1.146
+      ]
+    },
+    {
+      "id": "obj-0144",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        151.875,
+        340.19,
+        236.25
+      ],
+      "rotation_y": 359.014,
+      "scale": [
+        1.795,
+        1.607,
+        1.846
+      ]
+    },
+    {
+      "id": "obj-0145",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        343.125,
+        122.179,
+        -81.562
+      ],
+      "rotation_y": 212.096,
+      "scale": [
+        2.123,
+        1.892,
+        2.299
+      ]
+    },
+    {
+      "id": "obj-0146",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -92.812,
+        319.135,
+        272.812
+      ],
+      "rotation_y": 216.32,
+      "scale": [
+        1.369,
+        2.046,
+        1.652
+      ]
+    },
+    {
+      "id": "obj-0147",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        182.812,
+        340.734,
+        216.562
+      ],
+      "rotation_y": 81.053,
+      "scale": [
+        0.956,
+        0.916,
+        0.646
+      ]
+    },
+    {
+      "id": "obj-0148",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        163.125,
+        344.025,
+        227.812
+      ],
+      "rotation_y": 28.068,
+      "scale": [
+        1.88,
+        2.56,
+        1.915
+      ]
+    },
+    {
+      "id": "obj-0149",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -53.438,
+        303.244,
+        289.688
+      ],
+      "rotation_y": 268.935,
+      "scale": [
+        1.058,
+        1.773,
+        1.712
+      ]
+    },
+    {
+      "id": "obj-0150",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -98.438,
+        326.676,
+        267.188
+      ],
+      "rotation_y": 302.294,
+      "scale": [
+        1.366,
+        1.711,
+        0.861
+      ]
+    },
+    {
+      "id": "obj-0151",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -70.312,
+        313.647,
+        281.25
+      ],
+      "rotation_y": 205.991,
+      "scale": [
+        1.638,
+        2.351,
+        1.631
+      ]
+    },
+    {
+      "id": "obj-0152",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -84.375,
+        330.399,
+        270.0
+      ],
+      "rotation_y": 209.254,
+      "scale": [
+        1.473,
+        1.977,
+        1.608
+      ]
+    },
+    {
+      "id": "obj-0153",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -81.562,
+        320.286,
+        275.625
+      ],
+      "rotation_y": 85.952,
+      "scale": [
+        0.825,
+        1.004,
+        0.989
+      ]
+    },
+    {
+      "id": "obj-0154",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        39.375,
+        122.623,
+        -292.5
+      ],
+      "rotation_y": 4.274,
+      "scale": [
+        1.457,
+        1.926,
+        1.932
+      ]
+    },
+    {
+      "id": "obj-0155",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -67.5,
+        285.712,
+        295.312
+      ],
+      "rotation_y": 179.384,
+      "scale": [
+        1.891,
+        1.701,
+        1.367
+      ]
+    },
+    {
+      "id": "obj-0156",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        351.562,
+        112.054,
+        36.562
+      ],
+      "rotation_y": 135.225,
+      "scale": [
+        1.667,
+        1.753,
+        1.679
+      ]
+    },
+    {
+      "id": "obj-0157",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -61.875,
+        311.658,
+        284.062
+      ],
+      "rotation_y": 254.18,
+      "scale": [
+        1.705,
+        2.02,
+        1.393
+      ]
+    },
+    {
+      "id": "obj-0158",
+      "kind": "jungle_tree",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        -78.75,
+        309.699,
+        281.25
+      ],
+      "rotation_y": 173.35,
+      "scale": [
+        0.833,
+        0.864,
+        0.651
+      ]
+    },
+    {
+      "id": "obj-0159",
+      "kind": "vine",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        11.25,
+        123.436,
+        -295.312
+      ],
+      "rotation_y": 157.21,
+      "scale": [
+        0.813,
+        0.789,
+        0.879
+      ]
+    },
+    {
+      "id": "obj-0160",
+      "kind": "giant_root",
+      "category": "vegetation",
+      "biome": "rainforest",
+      "position": [
+        191.25,
+        330.743,
+        216.562
+      ],
+      "rotation_y": 151.802,
+      "scale": [
+        1.243,
+        1.192,
+        1.072
+      ]
+    },
+    {
+      "id": "obj-0161",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -261.562,
+        490.834,
+        56.25
+      ],
+      "rotation_y": 138.507,
+      "scale": [
+        21.198,
+        15.868,
+        19.046
+      ]
+    },
+    {
+      "id": "obj-0162",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        196.875,
+        480.171,
+        171.562
+      ],
+      "rotation_y": 258.075,
+      "scale": [
+        10.792,
+        13.55,
+        14.665
+      ]
+    },
+    {
+      "id": "obj-0163",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -115.312,
+        672.402,
+        171.562
+      ],
+      "rotation_y": 90.995,
+      "scale": [
+        19.128,
+        23.323,
+        28.844
+      ]
+    },
+    {
+      "id": "obj-0164",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        275.625,
+        458.637,
+        -104.062
+      ],
+      "rotation_y": 171.833,
+      "scale": [
+        26.386,
+        23.844,
+        23.029
+      ]
+    },
+    {
+      "id": "obj-0165",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        129.375,
+        451.961,
+        233.438
+      ],
+      "rotation_y": 24.379,
+      "scale": [
+        15.064,
+        14.244,
+        8.874
+      ]
+    },
+    {
+      "id": "obj-0166",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        258.75,
+        516.254,
+        16.875
+      ],
+      "rotation_y": 299.269,
+      "scale": [
+        19.403,
+        18.001,
+        13.084
+      ]
+    },
+    {
+      "id": "obj-0167",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        149.062,
+        498.211,
+        -199.688
+      ],
+      "rotation_y": 155.915,
+      "scale": [
+        19.631,
+        22.271,
+        11.3
+      ]
+    },
+    {
+      "id": "obj-0168",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -92.812,
+        483.792,
+        -227.812
+      ],
+      "rotation_y": 351.137,
+      "scale": [
+        31.972,
+        37.761,
+        28.087
+      ]
+    },
+    {
+      "id": "obj-0169",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        264.375,
+        505.875,
+        -67.5
+      ],
+      "rotation_y": 309.985,
+      "scale": [
+        8.739,
+        12.658,
+        9.619
+      ]
+    },
+    {
+      "id": "obj-0170",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        255.938,
+        508.265,
+        59.062
+      ],
+      "rotation_y": 230.02,
+      "scale": [
+        24.772,
+        29.705,
+        15.586
+      ]
+    },
+    {
+      "id": "obj-0171",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -143.438,
+        491.071,
+        210.938
+      ],
+      "rotation_y": 211.536,
+      "scale": [
+        9.134,
+        10.26,
+        14.209
+      ]
+    },
+    {
+      "id": "obj-0172",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -182.812,
+        677.438,
+        -106.875
+      ],
+      "rotation_y": 145.22,
+      "scale": [
+        19.168,
+        16.997,
+        23.684
+      ]
+    },
+    {
+      "id": "obj-0173",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        92.812,
+        659.44,
+        168.75
+      ],
+      "rotation_y": 299.678,
+      "scale": [
+        23.364,
+        18.419,
+        16.442
+      ]
+    },
+    {
+      "id": "obj-0174",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -230.625,
+        508.566,
+        -132.188
+      ],
+      "rotation_y": 140.818,
+      "scale": [
+        19.557,
+        33.356,
+        17.784
+      ]
+    },
+    {
+      "id": "obj-0175",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -87.188,
+        654.386,
+        -182.812
+      ],
+      "rotation_y": 319.382,
+      "scale": [
+        14.725,
+        14.5,
+        10.501
+      ]
+    },
+    {
+      "id": "obj-0176",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        165.938,
+        637.888,
+        132.188
+      ],
+      "rotation_y": 224.473,
+      "scale": [
+        23.119,
+        24.379,
+        21.902
+      ]
+    },
+    {
+      "id": "obj-0177",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        250.312,
+        445.754,
+        -151.875
+      ],
+      "rotation_y": 305.512,
+      "scale": [
+        9.771,
+        10.786,
+        8.83
+      ]
+    },
+    {
+      "id": "obj-0178",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        78.75,
+        475.685,
+        -219.375
+      ],
+      "rotation_y": 145.859,
+      "scale": [
+        12.635,
+        17.525,
+        9.147
+      ]
+    },
+    {
+      "id": "obj-0179",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        199.688,
+        655.822,
+        73.125
+      ],
+      "rotation_y": 161.435,
+      "scale": [
+        19.576,
+        16.639,
+        12.816
+      ]
+    },
+    {
+      "id": "obj-0180",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -109.688,
+        546.519,
+        196.875
+      ],
+      "rotation_y": 67.857,
+      "scale": [
+        14.373,
+        18.095,
+        15.314
+      ]
+    },
+    {
+      "id": "obj-0181",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        95.625,
+        497.283,
+        222.188
+      ],
+      "rotation_y": 267.182,
+      "scale": [
+        13.691,
+        10.533,
+        9.417
+      ]
+    },
+    {
+      "id": "obj-0182",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        275.625,
+        478.706,
+        36.562
+      ],
+      "rotation_y": 348.822,
+      "scale": [
+        12.081,
+        24.144,
+        14.754
+      ]
+    },
+    {
+      "id": "obj-0183",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -163.125,
+        493.979,
+        -196.875
+      ],
+      "rotation_y": 293.839,
+      "scale": [
+        13.093,
+        15.769,
+        12.705
+      ]
+    },
+    {
+      "id": "obj-0184",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -118.125,
+        471.953,
+        -230.625
+      ],
+      "rotation_y": 354.586,
+      "scale": [
+        15.525,
+        9.592,
+        8.622
+      ]
+    },
+    {
+      "id": "obj-0185",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        247.5,
+        622.277,
+        -19.688
+      ],
+      "rotation_y": 62.387,
+      "scale": [
+        22.356,
+        25.822,
+        24.326
+      ]
+    },
+    {
+      "id": "obj-0186",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -255.938,
+        517.716,
+        2.812
+      ],
+      "rotation_y": 129.406,
+      "scale": [
+        8.645,
+        13.137,
+        12.062
+      ]
+    },
+    {
+      "id": "obj-0187",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        126.562,
+        642.339,
+        160.312
+      ],
+      "rotation_y": 274.185,
+      "scale": [
+        11.676,
+        13.521,
+        11.891
+      ]
+    },
+    {
+      "id": "obj-0188",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -11.25,
+        477.566,
+        250.312
+      ],
+      "rotation_y": 164.731,
+      "scale": [
+        13.252,
+        12.706,
+        16.48
+      ]
+    },
+    {
+      "id": "obj-0189",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -191.25,
+        508.012,
+        180.0
+      ],
+      "rotation_y": 332.585,
+      "scale": [
+        15.831,
+        15.686,
+        16.068
+      ]
+    },
+    {
+      "id": "obj-0190",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        230.625,
+        629.324,
+        56.25
+      ],
+      "rotation_y": 147.66,
+      "scale": [
+        20.756,
+        18.111,
+        15.62
+      ]
+    },
+    {
+      "id": "obj-0191",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -225.0,
+        544.838,
+        98.438
+      ],
+      "rotation_y": 256.613,
+      "scale": [
+        19.149,
+        18.296,
+        14.247
+      ]
+    },
+    {
+      "id": "obj-0192",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        -216.562,
+        550.33,
+        -112.5
+      ],
+      "rotation_y": 303.113,
+      "scale": [
+        16.922,
+        34.087,
+        28.746
+      ]
+    },
+    {
+      "id": "obj-0193",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "alpine",
+      "position": [
+        298.125,
+        440.946,
+        -14.062
+      ],
+      "rotation_y": 44.821,
+      "scale": [
+        15.628,
+        17.359,
+        10.658
+      ]
+    },
+    {
+      "id": "obj-0194",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -253.125,
+        523.642,
+        -30.938
+      ],
+      "rotation_y": 262.388,
+      "scale": [
+        9.194,
+        11.273,
+        10.426
+      ]
+    },
+    {
+      "id": "obj-0195",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -78.75,
+        447.828,
+        -244.688
+      ],
+      "rotation_y": 68.02,
+      "scale": [
+        6.93,
+        8.716,
+        11.48
+      ]
+    },
+    {
+      "id": "obj-0196",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        87.188,
+        461.084,
+        241.875
+      ],
+      "rotation_y": 229.976,
+      "scale": [
+        6.681,
+        5.71,
+        7.947
+      ]
+    },
+    {
+      "id": "obj-0197",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        275.625,
+        474.522,
+        -84.375
+      ],
+      "rotation_y": 179.011,
+      "scale": [
+        5.724,
+        8.85,
+        5.024
+      ]
+    },
+    {
+      "id": "obj-0198",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        267.188,
+        441.813,
+        123.75
+      ],
+      "rotation_y": 337.921,
+      "scale": [
+        10.483,
+        8.344,
+        9.673
+      ]
+    },
+    {
+      "id": "obj-0199",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -258.75,
+        464.332,
+        109.688
+      ],
+      "rotation_y": 265.613,
+      "scale": [
+        9.842,
+        8.602,
+        14.426
+      ]
+    },
+    {
+      "id": "obj-0200",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -261.562,
+        472.143,
+        -104.062
+      ],
+      "rotation_y": 198.127,
+      "scale": [
+        5.464,
+        7.4,
+        4.168
+      ]
+    },
+    {
+      "id": "obj-0201",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        160.312,
+        495.521,
+        -196.875
+      ],
+      "rotation_y": 157.499,
+      "scale": [
+        6.432,
+        10.957,
+        8.819
+      ]
+    },
+    {
+      "id": "obj-0202",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -56.25,
+        530.243,
+        -208.125
+      ],
+      "rotation_y": 268.762,
+      "scale": [
+        8.098,
+        15.213,
+        8.296
+      ]
+    },
+    {
+      "id": "obj-0203",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        261.562,
+        508.215,
+        25.312
+      ],
+      "rotation_y": 140.147,
+      "scale": [
+        5.181,
+        5.027,
+        5.341
+      ]
+    },
+    {
+      "id": "obj-0204",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        236.25,
+        491.316,
+        126.562
+      ],
+      "rotation_y": 337.327,
+      "scale": [
+        6.213,
+        9.35,
+        7.332
+      ]
+    },
+    {
+      "id": "obj-0205",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -154.688,
+        659.886,
+        160.312
+      ],
+      "rotation_y": 218.204,
+      "scale": [
+        8.236,
+        6.627,
+        9.449
+      ]
+    },
+    {
+      "id": "obj-0206",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -196.875,
+        510.164,
+        -163.125
+      ],
+      "rotation_y": 142.333,
+      "scale": [
+        8.321,
+        9.353,
+        7.974
+      ]
+    },
+    {
+      "id": "obj-0207",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -149.062,
+        553.499,
+        177.188
+      ],
+      "rotation_y": 235.081,
+      "scale": [
+        6.383,
+        8.396,
+        5.805
+      ]
+    },
+    {
+      "id": "obj-0208",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -132.188,
+        539.683,
+        191.25
+      ],
+      "rotation_y": 132.144,
+      "scale": [
+        7.941,
+        10.211,
+        9.673
+      ]
+    },
+    {
+      "id": "obj-0209",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        33.75,
+        470.938,
+        -225.0
+      ],
+      "rotation_y": 267.155,
+      "scale": [
+        13.142,
+        14.555,
+        11.63
+      ]
+    },
+    {
+      "id": "obj-0210",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        36.562,
+        518.298,
+        -205.312
+      ],
+      "rotation_y": 266.08,
+      "scale": [
+        5.329,
+        4.945,
+        8.262
+      ]
+    },
+    {
+      "id": "obj-0211",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        267.188,
+        456.323,
+        -120.938
+      ],
+      "rotation_y": 145.661,
+      "scale": [
+        4.033,
+        6.124,
+        4.747
+      ]
+    },
+    {
+      "id": "obj-0212",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -120.938,
+        675.405,
+        -157.5
+      ],
+      "rotation_y": 323.7,
+      "scale": [
+        13.833,
+        11.2,
+        8.47
+      ]
+    },
+    {
+      "id": "obj-0213",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        101.25,
+        510.011,
+        213.75
+      ],
+      "rotation_y": 135.9,
+      "scale": [
+        5.101,
+        9.211,
+        4.896
+      ]
+    },
+    {
+      "id": "obj-0214",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        270.0,
+        499.696,
+        -5.625
+      ],
+      "rotation_y": 171.434,
+      "scale": [
+        7.022,
+        6.616,
+        6.661
+      ]
+    },
+    {
+      "id": "obj-0215",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -284.062,
+        436.665,
+        73.125
+      ],
+      "rotation_y": 341.644,
+      "scale": [
+        8.673,
+        8.608,
+        10.649
+      ]
+    },
+    {
+      "id": "obj-0216",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        59.062,
+        633.752,
+        199.688
+      ],
+      "rotation_y": 76.006,
+      "scale": [
+        8.282,
+        15.076,
+        10.598
+      ]
+    },
+    {
+      "id": "obj-0217",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -70.312,
+        636.973,
+        205.312
+      ],
+      "rotation_y": 29.283,
+      "scale": [
+        7.964,
+        12.523,
+        9.48
+      ]
+    },
+    {
+      "id": "obj-0218",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -225.0,
+        660.775,
+        -28.125
+      ],
+      "rotation_y": 319.925,
+      "scale": [
+        13.775,
+        10.117,
+        10.646
+      ]
+    },
+    {
+      "id": "obj-0219",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        196.875,
+        538.231,
+        123.75
+      ],
+      "rotation_y": 160.909,
+      "scale": [
+        11.793,
+        15.169,
+        10.993
+      ]
+    },
+    {
+      "id": "obj-0220",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -182.812,
+        546.391,
+        163.125
+      ],
+      "rotation_y": 279.992,
+      "scale": [
+        7.918,
+        7.183,
+        7.383
+      ]
+    },
+    {
+      "id": "obj-0221",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "alpine",
+      "position": [
+        -53.438,
+        526.619,
+        225.0
+      ],
+      "rotation_y": 102.509,
+      "scale": [
+        8.036,
+        14.253,
+        13.841
+      ]
+    },
+    {
+      "id": "obj-0222",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -171.562,
+        486.145,
+        202.5
+      ],
+      "rotation_y": 165.87,
+      "scale": [
+        4.759,
+        3.335,
+        3.52
+      ]
+    },
+    {
+      "id": "obj-0223",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        95.625,
+        458.972,
+        -222.188
+      ],
+      "rotation_y": 129.978,
+      "scale": [
+        3.701,
+        5.03,
+        4.107
+      ]
+    },
+    {
+      "id": "obj-0224",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -205.312,
+        504.605,
+        -160.312
+      ],
+      "rotation_y": 169.729,
+      "scale": [
+        4.197,
+        4.219,
+        3.0
+      ]
+    },
+    {
+      "id": "obj-0225",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        222.188,
+        447.652,
+        -177.188
+      ],
+      "rotation_y": 140.369,
+      "scale": [
+        2.132,
+        2.066,
+        3.234
+      ]
+    },
+    {
+      "id": "obj-0226",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -241.875,
+        528.048,
+        -78.75
+      ],
+      "rotation_y": 15.922,
+      "scale": [
+        5.767,
+        6.762,
+        3.523
+      ]
+    },
+    {
+      "id": "obj-0227",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        295.312,
+        437.148,
+        42.188
+      ],
+      "rotation_y": 188.771,
+      "scale": [
+        4.083,
+        6.303,
+        5.327
+      ]
+    },
+    {
+      "id": "obj-0228",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        267.188,
+        490.159,
+        53.438
+      ],
+      "rotation_y": 163.143,
+      "scale": [
+        3.304,
+        3.586,
+        3.002
+      ]
+    },
+    {
+      "id": "obj-0229",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        191.25,
+        463.411,
+        -194.062
+      ],
+      "rotation_y": 351.952,
+      "scale": [
+        2.726,
+        2.688,
+        3.575
+      ]
+    },
+    {
+      "id": "obj-0230",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        278.438,
+        468.864,
+        56.25
+      ],
+      "rotation_y": 2.834,
+      "scale": [
+        1.687,
+        1.208,
+        1.615
+      ]
+    },
+    {
+      "id": "obj-0231",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -5.625,
+        488.437,
+        244.688
+      ],
+      "rotation_y": 308.159,
+      "scale": [
+        6.277,
+        5.107,
+        6.543
+      ]
+    },
+    {
+      "id": "obj-0232",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        140.625,
+        539.103,
+        168.75
+      ],
+      "rotation_y": 118.768,
+      "scale": [
+        2.648,
+        3.44,
+        1.912
+      ]
+    },
+    {
+      "id": "obj-0233",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -118.125,
+        522.589,
+        205.312
+      ],
+      "rotation_y": 133.451,
+      "scale": [
+        2.148,
+        2.399,
+        1.707
+      ]
+    },
+    {
+      "id": "obj-0234",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -199.688,
+        551.197,
+        143.438
+      ],
+      "rotation_y": 182.596,
+      "scale": [
+        5.92,
+        7.333,
+        4.753
+      ]
+    },
+    {
+      "id": "obj-0235",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -219.375,
+        502.209,
+        151.875
+      ],
+      "rotation_y": 26.567,
+      "scale": [
+        5.783,
+        6.062,
+        3.646
+      ]
+    },
+    {
+      "id": "obj-0236",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        56.25,
+        655.438,
+        -180.0
+      ],
+      "rotation_y": 133.914,
+      "scale": [
+        3.406,
+        3.493,
+        5.069
+      ]
+    },
+    {
+      "id": "obj-0237",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -36.562,
+        527.833,
+        -208.125
+      ],
+      "rotation_y": 284.123,
+      "scale": [
+        1.809,
+        2.106,
+        1.852
+      ]
+    },
+    {
+      "id": "obj-0238",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -22.5,
+        522.668,
+        227.812
+      ],
+      "rotation_y": 204.778,
+      "scale": [
+        4.739,
+        4.233,
+        2.863
+      ]
+    },
+    {
+      "id": "obj-0239",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        292.5,
+        447.099,
+        30.938
+      ],
+      "rotation_y": 162.103,
+      "scale": [
+        4.097,
+        5.654,
+        4.351
+      ]
+    },
+    {
+      "id": "obj-0240",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        275.625,
+        476.76,
+        45.0
+      ],
+      "rotation_y": 152.449,
+      "scale": [
+        2.026,
+        3.158,
+        1.954
+      ]
+    },
+    {
+      "id": "obj-0241",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -236.25,
+        505.549,
+        115.312
+      ],
+      "rotation_y": 195.63,
+      "scale": [
+        1.562,
+        1.815,
+        1.203
+      ]
+    },
+    {
+      "id": "obj-0242",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -227.812,
+        466.403,
+        -165.938
+      ],
+      "rotation_y": 267.989,
+      "scale": [
+        2.013,
+        3.068,
+        2.755
+      ]
+    },
+    {
+      "id": "obj-0243",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "alpine",
+      "position": [
+        -70.312,
+        441.509,
+        261.562
+      ],
+      "rotation_y": 193.995,
+      "scale": [
+        5.102,
+        5.381,
+        4.147
+      ]
+    },
+    {
+      "id": "obj-0244",
+      "kind": "ice_spike",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        196.875,
+        646.363,
+        90.0
+      ],
+      "rotation_y": 314.89,
+      "scale": [
+        1.744,
+        2.145,
+        1.486
+      ]
+    },
+    {
+      "id": "obj-0245",
+      "kind": "pine",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        -216.562,
+        667.588,
+        -50.625
+      ],
+      "rotation_y": 173.089,
+      "scale": [
+        1.387,
+        1.438,
+        0.754
+      ]
+    },
+    {
+      "id": "obj-0246",
+      "kind": "pine",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        -106.875,
+        679.685,
+        171.562
+      ],
+      "rotation_y": 282.388,
+      "scale": [
+        2.276,
+        3.017,
+        2.135
+      ]
+    },
+    {
+      "id": "obj-0247",
+      "kind": "pine",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        196.875,
+        650.562,
+        84.375
+      ],
+      "rotation_y": 350.869,
+      "scale": [
+        2.304,
+        1.529,
+        1.316
+      ]
+    },
+    {
+      "id": "obj-0248",
+      "kind": "winter_bush",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        222.188,
+        649.687,
+        36.562
+      ],
+      "rotation_y": 359.037,
+      "scale": [
+        2.22,
+        1.728,
+        2.172
+      ]
+    },
+    {
+      "id": "obj-0249",
+      "kind": "ice_spike",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        151.875,
+        659.408,
+        123.75
+      ],
+      "rotation_y": 258.142,
+      "scale": [
+        0.927,
+        1.84,
+        1.232
+      ]
+    },
+    {
+      "id": "obj-0250",
+      "kind": "pine",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        180.0,
+        646.47,
+        109.688
+      ],
+      "rotation_y": 262.013,
+      "scale": [
+        1.83,
+        1.137,
+        1.571
+      ]
+    },
+    {
+      "id": "obj-0251",
+      "kind": "ice_spike",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        -132.188,
+        680.273,
+        -146.25
+      ],
+      "rotation_y": 310.14,
+      "scale": [
+        1.384,
+        1.552,
+        1.853
+      ]
+    },
+    {
+      "id": "obj-0252",
+      "kind": "winter_bush",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        208.125,
+        640.948,
+        81.562
+      ],
+      "rotation_y": 251.515,
+      "scale": [
+        1.48,
+        2.224,
+        2.552
+      ]
+    },
+    {
+      "id": "obj-0253",
+      "kind": "ice_spike",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        216.562,
+        639.851,
+        70.312
+      ],
+      "rotation_y": 27.883,
+      "scale": [
+        2.169,
+        2.728,
+        1.68
+      ]
+    },
+    {
+      "id": "obj-0254",
+      "kind": "ice_spike",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        -219.375,
+        666.734,
+        -42.188
+      ],
+      "rotation_y": 74.013,
+      "scale": [
+        2.198,
+        2.669,
+        1.325
+      ]
+    },
+    {
+      "id": "obj-0255",
+      "kind": "ice_spike",
+      "category": "vegetation",
+      "biome": "alpine",
+      "position": [
+        177.188,
+        653.737,
+        104.062
+      ],
+      "rotation_y": 241.316,
+      "scale": [
+        1.987,
+        1.413,
+        2.26
+      ]
+    },
+    {
+      "id": "obj-0256",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -28.125,
+        692.444,
+        174.375
+      ],
+      "rotation_y": 329.073,
+      "scale": [
+        12.635,
+        13.93,
+        16.057
+      ]
+    },
+    {
+      "id": "obj-0257",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -5.625,
+        801.414,
+        -140.625
+      ],
+      "rotation_y": 31.644,
+      "scale": [
+        26.696,
+        19.795,
+        19.303
+      ]
+    },
+    {
+      "id": "obj-0258",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -81.562,
+        855.605,
+        115.312
+      ],
+      "rotation_y": 317.305,
+      "scale": [
+        18.087,
+        19.495,
+        18.682
+      ]
+    },
+    {
+      "id": "obj-0259",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -14.062,
+        815.529,
+        137.812
+      ],
+      "rotation_y": 259.516,
+      "scale": [
+        16.162,
+        11.271,
+        13.743
+      ]
+    },
+    {
+      "id": "obj-0260",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -146.25,
+        699.645,
+        -101.25
+      ],
+      "rotation_y": 314.547,
+      "scale": [
+        29.93,
+        24.264,
+        23.068
+      ]
+    },
+    {
+      "id": "obj-0261",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        165.938,
+        803.25,
+        8.438
+      ],
+      "rotation_y": 142.666,
+      "scale": [
+        26.666,
+        33.458,
+        20.194
+      ]
+    },
+    {
+      "id": "obj-0262",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        109.688,
+        679.578,
+        -143.438
+      ],
+      "rotation_y": 255.601,
+      "scale": [
+        20.989,
+        23.059,
+        26.386
+      ]
+    },
+    {
+      "id": "obj-0263",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        165.938,
+        665.762,
+        -129.375
+      ],
+      "rotation_y": 144.575,
+      "scale": [
+        20.357,
+        17.579,
+        14.054
+      ]
+    },
+    {
+      "id": "obj-0264",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        208.125,
+        665.994,
+        -47.812
+      ],
+      "rotation_y": 55.708,
+      "scale": [
+        14.744,
+        17.629,
+        9.415
+      ]
+    },
+    {
+      "id": "obj-0265",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -109.688,
+        826.425,
+        115.312
+      ],
+      "rotation_y": 126.806,
+      "scale": [
+        25.475,
+        31.555,
+        18.423
+      ]
+    },
+    {
+      "id": "obj-0266",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -196.875,
+        696.577,
+        45.0
+      ],
+      "rotation_y": 139.736,
+      "scale": [
+        14.895,
+        14.666,
+        19.165
+      ]
+    },
+    {
+      "id": "obj-0267",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        8.438,
+        683.795,
+        168.75
+      ],
+      "rotation_y": 9.823,
+      "scale": [
+        18.304,
+        12.036,
+        17.467
+      ]
+    },
+    {
+      "id": "obj-0268",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        11.25,
+        675.062,
+        -163.125
+      ],
+      "rotation_y": 56.441,
+      "scale": [
+        8.524,
+        12.032,
+        11.17
+      ]
+    },
+    {
+      "id": "obj-0269",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -115.312,
+        697.062,
+        -120.938
+      ],
+      "rotation_y": 109.618,
+      "scale": [
+        27.132,
+        38.974,
+        32.049
+      ]
+    },
+    {
+      "id": "obj-0270",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        84.375,
+        680.853,
+        129.375
+      ],
+      "rotation_y": 122.786,
+      "scale": [
+        14.985,
+        10.783,
+        9.896
+      ]
+    },
+    {
+      "id": "obj-0271",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        59.062,
+        811.552,
+        -132.188
+      ],
+      "rotation_y": 242.176,
+      "scale": [
+        10.721,
+        16.278,
+        11.861
+      ]
+    },
+    {
+      "id": "obj-0272",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -67.5,
+        673.66,
+        185.625
+      ],
+      "rotation_y": 212.239,
+      "scale": [
+        15.948,
+        17.109,
+        13.42
+      ]
+    },
+    {
+      "id": "obj-0273",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        135.0,
+        789.76,
+        -101.25
+      ],
+      "rotation_y": 231.46,
+      "scale": [
+        25.398,
+        17.818,
+        19.906
+      ]
+    },
+    {
+      "id": "obj-0274",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -45.0,
+        687.762,
+        -157.5
+      ],
+      "rotation_y": 140.791,
+      "scale": [
+        20.022,
+        18.532,
+        24.526
+      ]
+    },
+    {
+      "id": "obj-0275",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        185.625,
+        674.297,
+        42.188
+      ],
+      "rotation_y": 229.107,
+      "scale": [
+        12.145,
+        18.088,
+        15.592
+      ]
+    },
+    {
+      "id": "obj-0276",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        140.625,
+        683.964,
+        67.5
+      ],
+      "rotation_y": 235.785,
+      "scale": [
+        22.445,
+        30.318,
+        19.562
+      ]
+    },
+    {
+      "id": "obj-0277",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -219.375,
+        672.108,
+        16.875
+      ],
+      "rotation_y": 259.583,
+      "scale": [
+        12.179,
+        10.396,
+        10.767
+      ]
+    },
+    {
+      "id": "obj-0278",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        182.812,
+        667.451,
+        -106.875
+      ],
+      "rotation_y": 238.719,
+      "scale": [
+        21.384,
+        31.002,
+        20.912
+      ]
+    },
+    {
+      "id": "obj-0279",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        70.312,
+        666.913,
+        -171.562
+      ],
+      "rotation_y": 30.093,
+      "scale": [
+        20.885,
+        18.451,
+        18.87
+      ]
+    },
+    {
+      "id": "obj-0280",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        143.438,
+        809.698,
+        39.375
+      ],
+      "rotation_y": 238.954,
+      "scale": [
+        24.924,
+        22.4,
+        28.825
+      ]
+    },
+    {
+      "id": "obj-0281",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -199.688,
+        684.93,
+        70.312
+      ],
+      "rotation_y": 25.065,
+      "scale": [
+        13.37,
+        14.064,
+        14.823
+      ]
+    },
+    {
+      "id": "obj-0282",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        53.438,
+        681.315,
+        160.312
+      ],
+      "rotation_y": 85.885,
+      "scale": [
+        15.863,
+        13.918,
+        13.653
+      ]
+    },
+    {
+      "id": "obj-0283",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -129.375,
+        869.42,
+        75.938
+      ],
+      "rotation_y": 161.619,
+      "scale": [
+        17.164,
+        19.107,
+        14.715
+      ]
+    },
+    {
+      "id": "obj-0284",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        126.562,
+        677.785,
+        106.875
+      ],
+      "rotation_y": 120.117,
+      "scale": [
+        15.448,
+        27.433,
+        25.97
+      ]
+    },
+    {
+      "id": "obj-0285",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -143.438,
+        856.99,
+        -45.0
+      ],
+      "rotation_y": 68.369,
+      "scale": [
+        10.473,
+        15.544,
+        12.078
+      ]
+    },
+    {
+      "id": "obj-0286",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -73.125,
+        793.832,
+        -126.562
+      ],
+      "rotation_y": 80.449,
+      "scale": [
+        21.355,
+        29.534,
+        25.167
+      ]
+    },
+    {
+      "id": "obj-0287",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        -163.125,
+        695.97,
+        -78.75
+      ],
+      "rotation_y": 289.739,
+      "scale": [
+        27.177,
+        36.01,
+        29.439
+      ]
+    },
+    {
+      "id": "obj-0288",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "caldera",
+      "position": [
+        208.125,
+        656.84,
+        -95.625
+      ],
+      "rotation_y": 25.073,
+      "scale": [
+        27.377,
+        28.792,
+        15.346
+      ]
+    },
+    {
+      "id": "obj-0289",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        75.938,
+        831.49,
+        95.625
+      ],
+      "rotation_y": 261.727,
+      "scale": [
+        8.39,
+        7.171,
+        6.969
+      ]
+    },
+    {
+      "id": "obj-0290",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        151.875,
+        838.736,
+        -5.625
+      ],
+      "rotation_y": 197.116,
+      "scale": [
+        7.682,
+        6.723,
+        8.023
+      ]
+    },
+    {
+      "id": "obj-0291",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -109.688,
+        826.425,
+        115.312
+      ],
+      "rotation_y": 264.554,
+      "scale": [
+        9.359,
+        9.106,
+        11.94
+      ]
+    },
+    {
+      "id": "obj-0292",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        222.188,
+        659.283,
+        -11.25
+      ],
+      "rotation_y": 170.303,
+      "scale": [
+        9.273,
+        11.818,
+        8.93
+      ]
+    },
+    {
+      "id": "obj-0293",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        115.312,
+        676.155,
+        -149.062
+      ],
+      "rotation_y": 359.031,
+      "scale": [
+        10.111,
+        10.307,
+        8.139
+      ]
+    },
+    {
+      "id": "obj-0294",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -64.688,
+        691.781,
+        -143.438
+      ],
+      "rotation_y": 255.629,
+      "scale": [
+        8.093,
+        10.685,
+        5.227
+      ]
+    },
+    {
+      "id": "obj-0295",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        112.5,
+        676.663,
+        135.0
+      ],
+      "rotation_y": 227.323,
+      "scale": [
+        11.832,
+        12.594,
+        11.022
+      ]
+    },
+    {
+      "id": "obj-0296",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -160.312,
+        827.926,
+        -39.375
+      ],
+      "rotation_y": 31.45,
+      "scale": [
+        11.419,
+        11.312,
+        13.603
+      ]
+    },
+    {
+      "id": "obj-0297",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        123.75,
+        811.807,
+        61.875
+      ],
+      "rotation_y": 72.875,
+      "scale": [
+        14.643,
+        8.997,
+        11.701
+      ]
+    },
+    {
+      "id": "obj-0298",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        123.75,
+        838.821,
+        45.0
+      ],
+      "rotation_y": 333.396,
+      "scale": [
+        10.844,
+        13.244,
+        11.309
+      ]
+    },
+    {
+      "id": "obj-0299",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -180.0,
+        695.694,
+        -42.188
+      ],
+      "rotation_y": 182.945,
+      "scale": [
+        5.355,
+        7.122,
+        4.353
+      ]
+    },
+    {
+      "id": "obj-0300",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        219.375,
+        655.017,
+        -75.938
+      ],
+      "rotation_y": 116.258,
+      "scale": [
+        6.384,
+        10.687,
+        8.19
+      ]
+    },
+    {
+      "id": "obj-0301",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        154.688,
+        778.549,
+        42.188
+      ],
+      "rotation_y": 87.004,
+      "scale": [
+        9.193,
+        10.078,
+        14.091
+      ]
+    },
+    {
+      "id": "obj-0302",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -8.438,
+        849.751,
+        120.938
+      ],
+      "rotation_y": 23.935,
+      "scale": [
+        9.957,
+        16.673,
+        12.134
+      ]
+    },
+    {
+      "id": "obj-0303",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        146.25,
+        786.82,
+        -92.812
+      ],
+      "rotation_y": 271.504,
+      "scale": [
+        9.758,
+        10.611,
+        8.785
+      ]
+    },
+    {
+      "id": "obj-0304",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -11.25,
+        689.099,
+        160.312
+      ],
+      "rotation_y": 201.64,
+      "scale": [
+        3.851,
+        8.205,
+        4.039
+      ]
+    },
+    {
+      "id": "obj-0305",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        19.688,
+        802.498,
+        -140.625
+      ],
+      "rotation_y": 243.126,
+      "scale": [
+        9.914,
+        12.323,
+        11.996
+      ]
+    },
+    {
+      "id": "obj-0306",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        101.25,
+        845.95,
+        64.688
+      ],
+      "rotation_y": 335.511,
+      "scale": [
+        7.556,
+        6.695,
+        5.221
+      ]
+    },
+    {
+      "id": "obj-0307",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        50.625,
+        687.289,
+        137.812
+      ],
+      "rotation_y": 324.786,
+      "scale": [
+        9.23,
+        6.122,
+        6.309
+      ]
+    },
+    {
+      "id": "obj-0308",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -199.688,
+        692.899,
+        47.812
+      ],
+      "rotation_y": 324.307,
+      "scale": [
+        6.084,
+        9.214,
+        8.862
+      ]
+    },
+    {
+      "id": "obj-0309",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        0.0,
+        688.305,
+        151.875
+      ],
+      "rotation_y": 36.687,
+      "scale": [
+        10.719,
+        15.245,
+        10.032
+      ]
+    },
+    {
+      "id": "obj-0310",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -70.312,
+        828.724,
+        -115.312
+      ],
+      "rotation_y": 348.445,
+      "scale": [
+        3.825,
+        5.417,
+        3.628
+      ]
+    },
+    {
+      "id": "obj-0311",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        25.312,
+        684.832,
+        149.062
+      ],
+      "rotation_y": 302.423,
+      "scale": [
+        7.743,
+        8.507,
+        6.776
+      ]
+    },
+    {
+      "id": "obj-0312",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        78.75,
+        800.816,
+        -129.375
+      ],
+      "rotation_y": 293.756,
+      "scale": [
+        4.603,
+        5.434,
+        3.683
+      ]
+    },
+    {
+      "id": "obj-0313",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        165.938,
+        661.05,
+        -135.0
+      ],
+      "rotation_y": 46.574,
+      "scale": [
+        11.529,
+        8.223,
+        6.845
+      ]
+    },
+    {
+      "id": "obj-0314",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        157.5,
+        832.548,
+        -28.125
+      ],
+      "rotation_y": 172.474,
+      "scale": [
+        8.393,
+        11.843,
+        7.897
+      ]
+    },
+    {
+      "id": "obj-0315",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -163.125,
+        840.102,
+        50.625
+      ],
+      "rotation_y": 108.229,
+      "scale": [
+        10.191,
+        12.727,
+        8.05
+      ]
+    },
+    {
+      "id": "obj-0316",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -199.688,
+        685.944,
+        67.5
+      ],
+      "rotation_y": 215.355,
+      "scale": [
+        7.218,
+        10.002,
+        6.365
+      ]
+    },
+    {
+      "id": "obj-0317",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -191.25,
+        696.79,
+        -22.5
+      ],
+      "rotation_y": 283.919,
+      "scale": [
+        13.506,
+        12.225,
+        8.082
+      ]
+    },
+    {
+      "id": "obj-0318",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        92.812,
+        783.371,
+        104.062
+      ],
+      "rotation_y": 75.542,
+      "scale": [
+        4.032,
+        7.029,
+        4.329
+      ]
+    },
+    {
+      "id": "obj-0319",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        -25.312,
+        845.763,
+        -123.75
+      ],
+      "rotation_y": 270.502,
+      "scale": [
+        5.729,
+        9.953,
+        7.059
+      ]
+    },
+    {
+      "id": "obj-0320",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        8.438,
+        844.276,
+        118.125
+      ],
+      "rotation_y": 258.569,
+      "scale": [
+        8.251,
+        9.037,
+        8.311
+      ]
+    },
+    {
+      "id": "obj-0321",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "caldera",
+      "position": [
+        129.375,
+        678.004,
+        106.875
+      ],
+      "rotation_y": 94.793,
+      "scale": [
+        4.925,
+        8.349,
+        7.724
+      ]
+    },
+    {
+      "id": "obj-0322",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -59.062,
+        692.101,
+        -157.5
+      ],
+      "rotation_y": 276.298,
+      "scale": [
+        5.063,
+        3.041,
+        3.031
+      ]
+    },
+    {
+      "id": "obj-0323",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -73.125,
+        808.944,
+        -120.938
+      ],
+      "rotation_y": 157.584,
+      "scale": [
+        3.07,
+        2.418,
+        2.018
+      ]
+    },
+    {
+      "id": "obj-0324",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -194.062,
+        689.693,
+        -45.0
+      ],
+      "rotation_y": 157.892,
+      "scale": [
+        1.338,
+        1.903,
+        1.484
+      ]
+    },
+    {
+      "id": "obj-0325",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -137.812,
+        700.894,
+        140.625
+      ],
+      "rotation_y": 340.513,
+      "scale": [
+        1.13,
+        1.483,
+        1.844
+      ]
+    },
+    {
+      "id": "obj-0326",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -112.5,
+        849.228,
+        101.25
+      ],
+      "rotation_y": 130.29,
+      "scale": [
+        5.562,
+        4.115,
+        4.813
+      ]
+    },
+    {
+      "id": "obj-0327",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        177.188,
+        670.712,
+        75.938
+      ],
+      "rotation_y": 105.208,
+      "scale": [
+        2.058,
+        2.341,
+        1.229
+      ]
+    },
+    {
+      "id": "obj-0328",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        177.188,
+        784.135,
+        -5.625
+      ],
+      "rotation_y": 162.147,
+      "scale": [
+        5.753,
+        4.73,
+        4.917
+      ]
+    },
+    {
+      "id": "obj-0329",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -205.312,
+        690.01,
+        36.562
+      ],
+      "rotation_y": 143.938,
+      "scale": [
+        5.308,
+        4.753,
+        6.02
+      ]
+    },
+    {
+      "id": "obj-0330",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -42.188,
+        684.679,
+        182.812
+      ],
+      "rotation_y": 115.486,
+      "scale": [
+        1.884,
+        1.776,
+        2.751
+      ]
+    },
+    {
+      "id": "obj-0331",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -70.312,
+        688.303,
+        -165.938
+      ],
+      "rotation_y": 59.398,
+      "scale": [
+        2.969,
+        5.565,
+        4.645
+      ]
+    },
+    {
+      "id": "obj-0332",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -36.562,
+        859.193,
+        -115.312
+      ],
+      "rotation_y": 269.432,
+      "scale": [
+        4.432,
+        4.613,
+        5.65
+      ]
+    },
+    {
+      "id": "obj-0333",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        8.438,
+        802.122,
+        -140.625
+      ],
+      "rotation_y": 167.015,
+      "scale": [
+        2.168,
+        2.524,
+        3.105
+      ]
+    },
+    {
+      "id": "obj-0334",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -101.25,
+        840.754,
+        -90.0
+      ],
+      "rotation_y": 334.826,
+      "scale": [
+        5.439,
+        5.199,
+        3.404
+      ]
+    },
+    {
+      "id": "obj-0335",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -67.5,
+        851.933,
+        -106.875
+      ],
+      "rotation_y": 120.796,
+      "scale": [
+        3.949,
+        4.658,
+        3.839
+      ]
+    },
+    {
+      "id": "obj-0336",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -53.438,
+        803.259,
+        -132.188
+      ],
+      "rotation_y": 213.113,
+      "scale": [
+        3.303,
+        3.039,
+        3.352
+      ]
+    },
+    {
+      "id": "obj-0337",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        45.0,
+        832.717,
+        -126.562
+      ],
+      "rotation_y": 142.642,
+      "scale": [
+        1.536,
+        2.085,
+        1.936
+      ]
+    },
+    {
+      "id": "obj-0338",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -22.5,
+        799.328,
+        -140.625
+      ],
+      "rotation_y": 257.782,
+      "scale": [
+        2.662,
+        1.982,
+        2.99
+      ]
+    },
+    {
+      "id": "obj-0339",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -67.5,
+        809.812,
+        -123.75
+      ],
+      "rotation_y": 342.937,
+      "scale": [
+        6.42,
+        6.268,
+        4.34
+      ]
+    },
+    {
+      "id": "obj-0340",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        129.375,
+        846.618,
+        30.938
+      ],
+      "rotation_y": 281.119,
+      "scale": [
+        2.371,
+        4.097,
+        3.163
+      ]
+    },
+    {
+      "id": "obj-0341",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        59.062,
+        681.845,
+        157.5
+      ],
+      "rotation_y": 215.822,
+      "scale": [
+        6.231,
+        6.91,
+        3.738
+      ]
+    },
+    {
+      "id": "obj-0342",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        168.75,
+        675.974,
+        45.0
+      ],
+      "rotation_y": 346.879,
+      "scale": [
+        3.239,
+        3.063,
+        3.678
+      ]
+    },
+    {
+      "id": "obj-0343",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        11.25,
+        682.073,
+        171.562
+      ],
+      "rotation_y": 158.6,
+      "scale": [
+        5.051,
+        5.551,
+        5.454
+      ]
+    },
+    {
+      "id": "obj-0344",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        50.625,
+        671.615,
+        -171.562
+      ],
+      "rotation_y": 284.499,
+      "scale": [
+        4.42,
+        4.573,
+        3.278
+      ]
+    },
+    {
+      "id": "obj-0345",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -106.875,
+        700.469,
+        -112.5
+      ],
+      "rotation_y": 29.888,
+      "scale": [
+        3.539,
+        4.17,
+        4.086
+      ]
+    },
+    {
+      "id": "obj-0346",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -30.938,
+        855.896,
+        -118.125
+      ],
+      "rotation_y": 59.913,
+      "scale": [
+        2.822,
+        5.605,
+        3.919
+      ]
+    },
+    {
+      "id": "obj-0347",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -2.812,
+        678.621,
+        180.0
+      ],
+      "rotation_y": 42.994,
+      "scale": [
+        3.411,
+        5.471,
+        4.301
+      ]
+    },
+    {
+      "id": "obj-0348",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -28.125,
+        679.299,
+        -174.375
+      ],
+      "rotation_y": 310.303,
+      "scale": [
+        2.282,
+        3.387,
+        2.716
+      ]
+    },
+    {
+      "id": "obj-0349",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -73.125,
+        693.095,
+        -143.438
+      ],
+      "rotation_y": 181.447,
+      "scale": [
+        4.164,
+        5.099,
+        5.445
+      ]
+    },
+    {
+      "id": "obj-0350",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        202.5,
+        670.076,
+        11.25
+      ],
+      "rotation_y": 81.111,
+      "scale": [
+        4.986,
+        6.398,
+        5.194
+      ]
+    },
+    {
+      "id": "obj-0351",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "caldera",
+      "position": [
+        -95.625,
+        829.73,
+        -98.438
+      ],
+      "rotation_y": 288.723,
+      "scale": [
+        2.029,
+        1.405,
+        1.669
+      ]
+    },
+    {
+      "id": "obj-0352",
+      "kind": "lava_vent",
+      "category": "vegetation",
+      "biome": "caldera",
+      "position": [
+        8.438,
+        677.996,
+        177.188
+      ],
+      "rotation_y": 267.028,
+      "scale": [
+        2.557,
+        2.887,
+        2.163
+      ]
+    },
+    {
+      "id": "obj-0353",
+      "kind": "charred_stump",
+      "category": "vegetation",
+      "biome": "caldera",
+      "position": [
+        202.5,
+        667.19,
+        -33.75
+      ],
+      "rotation_y": 236.338,
+      "scale": [
+        2.408,
+        1.544,
+        2.199
+      ]
+    },
+    {
+      "id": "obj-0354",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        75.938,
+        1009.086,
+        -45.0
+      ],
+      "rotation_y": 31.525,
+      "scale": [
+        28.447,
+        31.643,
+        20.16
+      ]
+    },
+    {
+      "id": "obj-0355",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        47.812,
+        860.978,
+        95.625
+      ],
+      "rotation_y": 186.034,
+      "scale": [
+        10.04,
+        14.924,
+        9.809
+      ]
+    },
+    {
+      "id": "obj-0356",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -64.688,
+        934.252,
+        81.562
+      ],
+      "rotation_y": 287.257,
+      "scale": [
+        10.596,
+        17.853,
+        14.159
+      ]
+    },
+    {
+      "id": "obj-0357",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -101.25,
+        949.218,
+        47.812
+      ],
+      "rotation_y": 359.303,
+      "scale": [
+        19.508,
+        30.793,
+        21.967
+      ]
+    },
+    {
+      "id": "obj-0358",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        56.25,
+        924.177,
+        -70.312
+      ],
+      "rotation_y": 269.417,
+      "scale": [
+        13.158,
+        12.273,
+        18.78
+      ]
+    },
+    {
+      "id": "obj-0359",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        61.875,
+        857.209,
+        73.125
+      ],
+      "rotation_y": 270.923,
+      "scale": [
+        17.609,
+        16.13,
+        13.623
+      ]
+    },
+    {
+      "id": "obj-0360",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        28.125,
+        1052.536,
+        -39.375
+      ],
+      "rotation_y": 277.732,
+      "scale": [
+        11.704,
+        14.744,
+        10.259
+      ]
+    },
+    {
+      "id": "obj-0361",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        8.438,
+        883.706,
+        -92.812
+      ],
+      "rotation_y": 126.299,
+      "scale": [
+        19.073,
+        28.03,
+        29.371
+      ]
+    },
+    {
+      "id": "obj-0362",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        5.625,
+        1020.005,
+        -56.25
+      ],
+      "rotation_y": 337.075,
+      "scale": [
+        20.292,
+        37.496,
+        31.482
+      ]
+    },
+    {
+      "id": "obj-0363",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -25.312,
+        1024.627,
+        67.5
+      ],
+      "rotation_y": 107.903,
+      "scale": [
+        19.711,
+        30.385,
+        18.941
+      ]
+    },
+    {
+      "id": "obj-0364",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        47.812,
+        1015.615,
+        39.375
+      ],
+      "rotation_y": 174.499,
+      "scale": [
+        23.501,
+        16.054,
+        19.775
+      ]
+    },
+    {
+      "id": "obj-0365",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        75.938,
+        883.299,
+        42.188
+      ],
+      "rotation_y": 216.403,
+      "scale": [
+        20.035,
+        29.784,
+        17.015
+      ]
+    },
+    {
+      "id": "obj-0366",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -19.688,
+        900.414,
+        -95.625
+      ],
+      "rotation_y": 214.456,
+      "scale": [
+        16.088,
+        20.24,
+        13.481
+      ]
+    },
+    {
+      "id": "obj-0367",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -112.5,
+        939.992,
+        0.0
+      ],
+      "rotation_y": 117.37,
+      "scale": [
+        16.287,
+        18.867,
+        20.715
+      ]
+    },
+    {
+      "id": "obj-0368",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -98.438,
+        908.972,
+        -64.688
+      ],
+      "rotation_y": 107.846,
+      "scale": [
+        32.018,
+        36.015,
+        17.694
+      ]
+    },
+    {
+      "id": "obj-0369",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        25.312,
+        885.132,
+        70.312
+      ],
+      "rotation_y": 59.334,
+      "scale": [
+        14.529,
+        23.87,
+        17.94
+      ]
+    },
+    {
+      "id": "obj-0370",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -8.438,
+        1052.957,
+        42.188
+      ],
+      "rotation_y": 176.089,
+      "scale": [
+        21.275,
+        20.957,
+        18.425
+      ]
+    },
+    {
+      "id": "obj-0371",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -73.125,
+        950.246,
+        -50.625
+      ],
+      "rotation_y": 168.097,
+      "scale": [
+        21.593,
+        34.837,
+        19.994
+      ]
+    },
+    {
+      "id": "obj-0372",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -149.062,
+        903.419,
+        5.625
+      ],
+      "rotation_y": 315.195,
+      "scale": [
+        9.166,
+        13.37,
+        13.658
+      ]
+    },
+    {
+      "id": "obj-0373",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -92.812,
+        1050.429,
+        -19.688
+      ],
+      "rotation_y": 182.071,
+      "scale": [
+        21.478,
+        37.895,
+        17.827
+      ]
+    },
+    {
+      "id": "obj-0374",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -129.375,
+        905.031,
+        42.188
+      ],
+      "rotation_y": 218.612,
+      "scale": [
+        10.943,
+        12.363,
+        9.403
+      ]
+    },
+    {
+      "id": "obj-0375",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -36.562,
+        901.574,
+        98.438
+      ],
+      "rotation_y": 48.788,
+      "scale": [
+        16.216,
+        18.519,
+        24.195
+      ]
+    },
+    {
+      "id": "obj-0376",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -45.0,
+        1059.301,
+        50.625
+      ],
+      "rotation_y": 73.0,
+      "scale": [
+        18.408,
+        20.343,
+        14.624
+      ]
+    },
+    {
+      "id": "obj-0377",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -50.625,
+        912.29,
+        -87.188
+      ],
+      "rotation_y": 164.175,
+      "scale": [
+        9.974,
+        9.926,
+        14.431
+      ]
+    },
+    {
+      "id": "obj-0378",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        70.312,
+        882.149,
+        -92.812
+      ],
+      "rotation_y": 234.353,
+      "scale": [
+        14.167,
+        20.249,
+        14.059
+      ]
+    },
+    {
+      "id": "obj-0379",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        -73.125,
+        1063.771,
+        33.75
+      ],
+      "rotation_y": 92.312,
+      "scale": [
+        22.284,
+        18.737,
+        27.173
+      ]
+    },
+    {
+      "id": "obj-0380",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        120.938,
+        851.287,
+        8.438
+      ],
+      "rotation_y": 315.227,
+      "scale": [
+        17.016,
+        16.792,
+        18.967
+      ]
+    },
+    {
+      "id": "obj-0381",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "kiln",
+      "position": [
+        132.188,
+        845.976,
+        -42.188
+      ],
+      "rotation_y": 235.821,
+      "scale": [
+        22.816,
+        17.98,
+        20.169
+      ]
+    },
+    {
+      "id": "obj-0382",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -146.25,
+        903.493,
+        2.812
+      ],
+      "rotation_y": 120.984,
+      "scale": [
+        6.995,
+        10.254,
+        5.15
+      ]
+    },
+    {
+      "id": "obj-0383",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -36.562,
+        915.234,
+        81.562
+      ],
+      "rotation_y": 9.112,
+      "scale": [
+        7.326,
+        4.623,
+        5.699
+      ]
+    },
+    {
+      "id": "obj-0384",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        92.812,
+        853.988,
+        45.0
+      ],
+      "rotation_y": 150.31,
+      "scale": [
+        9.375,
+        7.774,
+        7.608
+      ]
+    },
+    {
+      "id": "obj-0385",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -22.5,
+        904.855,
+        -81.562
+      ],
+      "rotation_y": 207.446,
+      "scale": [
+        9.663,
+        18.095,
+        9.909
+      ]
+    },
+    {
+      "id": "obj-0386",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -78.75,
+        1062.771,
+        -16.875
+      ],
+      "rotation_y": 346.489,
+      "scale": [
+        7.11,
+        10.815,
+        9.57
+      ]
+    },
+    {
+      "id": "obj-0387",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        123.75,
+        848.186,
+        8.438
+      ],
+      "rotation_y": 53.473,
+      "scale": [
+        8.365,
+        9.08,
+        9.67
+      ]
+    },
+    {
+      "id": "obj-0388",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        39.375,
+        1029.022,
+        33.75
+      ],
+      "rotation_y": 315.314,
+      "scale": [
+        6.032,
+        5.126,
+        7.404
+      ]
+    },
+    {
+      "id": "obj-0389",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -30.938,
+        1036.044,
+        53.438
+      ],
+      "rotation_y": 175.349,
+      "scale": [
+        5.881,
+        6.274,
+        5.881
+      ]
+    },
+    {
+      "id": "obj-0390",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -109.688,
+        942.487,
+        -8.438
+      ],
+      "rotation_y": 261.895,
+      "scale": [
+        8.304,
+        6.008,
+        5.64
+      ]
+    },
+    {
+      "id": "obj-0391",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        90.0,
+        1000.762,
+        -14.062
+      ],
+      "rotation_y": 43.447,
+      "scale": [
+        8.29,
+        5.328,
+        5.396
+      ]
+    },
+    {
+      "id": "obj-0392",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -64.688,
+        1061.741,
+        42.188
+      ],
+      "rotation_y": 151.137,
+      "scale": [
+        15.036,
+        9.957,
+        8.346
+      ]
+    },
+    {
+      "id": "obj-0393",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        2.812,
+        870.644,
+        -109.688
+      ],
+      "rotation_y": 206.805,
+      "scale": [
+        7.655,
+        8.409,
+        7.999
+      ]
+    },
+    {
+      "id": "obj-0394",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        78.75,
+        876.897,
+        42.188
+      ],
+      "rotation_y": 71.563,
+      "scale": [
+        5.526,
+        7.59,
+        3.826
+      ]
+    },
+    {
+      "id": "obj-0395",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -143.438,
+        894.598,
+        -14.062
+      ],
+      "rotation_y": 60.224,
+      "scale": [
+        10.457,
+        11.914,
+        6.778
+      ]
+    },
+    {
+      "id": "obj-0396",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        115.312,
+        873.6,
+        22.5
+      ],
+      "rotation_y": 38.606,
+      "scale": [
+        11.148,
+        13.22,
+        11.91
+      ]
+    },
+    {
+      "id": "obj-0397",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -81.562,
+        921.358,
+        67.5
+      ],
+      "rotation_y": 151.882,
+      "scale": [
+        9.876,
+        12.712,
+        7.145
+      ]
+    },
+    {
+      "id": "obj-0398",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -149.062,
+        912.413,
+        19.688
+      ],
+      "rotation_y": 154.646,
+      "scale": [
+        13.474,
+        14.723,
+        7.722
+      ]
+    },
+    {
+      "id": "obj-0399",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        19.688,
+        1044.555,
+        -53.438
+      ],
+      "rotation_y": 336.444,
+      "scale": [
+        13.808,
+        10.366,
+        9.44
+      ]
+    },
+    {
+      "id": "obj-0400",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -53.438,
+        915.234,
+        -84.375
+      ],
+      "rotation_y": 208.273,
+      "scale": [
+        5.65,
+        6.44,
+        6.132
+      ]
+    },
+    {
+      "id": "obj-0401",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -53.438,
+        923.699,
+        -73.125
+      ],
+      "rotation_y": 66.027,
+      "scale": [
+        11.33,
+        9.651,
+        10.414
+      ]
+    },
+    {
+      "id": "obj-0402",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -11.25,
+        886.649,
+        101.25
+      ],
+      "rotation_y": 60.698,
+      "scale": [
+        6.951,
+        7.33,
+        6.092
+      ]
+    },
+    {
+      "id": "obj-0403",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        78.75,
+        979.007,
+        8.438
+      ],
+      "rotation_y": 304.897,
+      "scale": [
+        8.964,
+        13.354,
+        10.367
+      ]
+    },
+    {
+      "id": "obj-0404",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -73.125,
+        1073.106,
+        2.812
+      ],
+      "rotation_y": 20.685,
+      "scale": [
+        11.743,
+        14.249,
+        8.173
+      ]
+    },
+    {
+      "id": "obj-0405",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -28.125,
+        1016.608,
+        -67.5
+      ],
+      "rotation_y": 137.765,
+      "scale": [
+        7.623,
+        8.676,
+        10.324
+      ]
+    },
+    {
+      "id": "obj-0406",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        59.062,
+        843.945,
+        -106.875
+      ],
+      "rotation_y": 50.177,
+      "scale": [
+        6.296,
+        8.725,
+        8.345
+      ]
+    },
+    {
+      "id": "obj-0407",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -112.5,
+        891.054,
+        -59.062
+      ],
+      "rotation_y": 184.467,
+      "scale": [
+        10.733,
+        15.814,
+        10.277
+      ]
+    },
+    {
+      "id": "obj-0408",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -92.812,
+        1056.03,
+        5.625
+      ],
+      "rotation_y": 221.208,
+      "scale": [
+        7.49,
+        9.17,
+        7.033
+      ]
+    },
+    {
+      "id": "obj-0409",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -42.188,
+        1060.889,
+        -39.375
+      ],
+      "rotation_y": 321.044,
+      "scale": [
+        5.36,
+        5.222,
+        6.2
+      ]
+    },
+    {
+      "id": "obj-0410",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        64.688,
+        1016.113,
+        -14.062
+      ],
+      "rotation_y": 86.703,
+      "scale": [
+        7.857,
+        5.176,
+        4.634
+      ]
+    },
+    {
+      "id": "obj-0411",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -118.125,
+        920.239,
+        39.375
+      ],
+      "rotation_y": 320.443,
+      "scale": [
+        9.19,
+        6.525,
+        10.286
+      ]
+    },
+    {
+      "id": "obj-0412",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        90.0,
+        871.73,
+        -87.188
+      ],
+      "rotation_y": 147.586,
+      "scale": [
+        9.043,
+        13.853,
+        11.294
+      ]
+    },
+    {
+      "id": "obj-0413",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        -95.625,
+        949.136,
+        -30.938
+      ],
+      "rotation_y": 14.733,
+      "scale": [
+        9.888,
+        15.884,
+        8.078
+      ]
+    },
+    {
+      "id": "obj-0414",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "kiln",
+      "position": [
+        53.438,
+        1020.399,
+        -59.062
+      ],
+      "rotation_y": 212.249,
+      "scale": [
+        6.026,
+        6.553,
+        7.583
+      ]
+    },
+    {
+      "id": "obj-0415",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        64.688,
+        849.275,
+        73.125
+      ],
+      "rotation_y": 228.213,
+      "scale": [
+        3.767,
+        8.217,
+        4.784
+      ]
+    },
+    {
+      "id": "obj-0416",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        30.938,
+        1006.06,
+        39.375
+      ],
+      "rotation_y": 303.842,
+      "scale": [
+        2.956,
+        4.304,
+        3.593
+      ]
+    },
+    {
+      "id": "obj-0417",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -28.125,
+        908.842,
+        98.438
+      ],
+      "rotation_y": 136.545,
+      "scale": [
+        2.536,
+        2.25,
+        1.706
+      ]
+    },
+    {
+      "id": "obj-0418",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        42.188,
+        897.257,
+        -84.375
+      ],
+      "rotation_y": 205.859,
+      "scale": [
+        2.392,
+        3.581,
+        3.197
+      ]
+    },
+    {
+      "id": "obj-0419",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -87.188,
+        1049.594,
+        25.312
+      ],
+      "rotation_y": 99.167,
+      "scale": [
+        3.107,
+        3.565,
+        2.048
+      ]
+    },
+    {
+      "id": "obj-0420",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        19.688,
+        882.088,
+        95.625
+      ],
+      "rotation_y": 13.029,
+      "scale": [
+        4.412,
+        6.152,
+        2.988
+      ]
+    },
+    {
+      "id": "obj-0421",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -92.812,
+        1047.975,
+        -22.5
+      ],
+      "rotation_y": 326.424,
+      "scale": [
+        4.261,
+        5.252,
+        5.071
+      ]
+    },
+    {
+      "id": "obj-0422",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -14.062,
+        905.779,
+        -95.625
+      ],
+      "rotation_y": 23.501,
+      "scale": [
+        2.114,
+        2.177,
+        3.477
+      ]
+    },
+    {
+      "id": "obj-0423",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -8.438,
+        1045.559,
+        -53.438
+      ],
+      "rotation_y": 266.097,
+      "scale": [
+        2.772,
+        4.612,
+        3.315
+      ]
+    },
+    {
+      "id": "obj-0424",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        50.625,
+        870.764,
+        90.0
+      ],
+      "rotation_y": 140.808,
+      "scale": [
+        5.004,
+        5.41,
+        6.769
+      ]
+    },
+    {
+      "id": "obj-0425",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        19.688,
+        1037.503,
+        -59.062
+      ],
+      "rotation_y": 321.824,
+      "scale": [
+        1.846,
+        3.351,
+        1.68
+      ]
+    },
+    {
+      "id": "obj-0426",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        112.5,
+        886.148,
+        -47.812
+      ],
+      "rotation_y": 349.067,
+      "scale": [
+        2.361,
+        2.211,
+        1.636
+      ]
+    },
+    {
+      "id": "obj-0427",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        47.812,
+        1026.734,
+        -56.25
+      ],
+      "rotation_y": 11.059,
+      "scale": [
+        2.811,
+        3.198,
+        2.473
+      ]
+    },
+    {
+      "id": "obj-0428",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        73.125,
+        1007.07,
+        -25.312
+      ],
+      "rotation_y": 240.649,
+      "scale": [
+        2.635,
+        2.994,
+        2.19
+      ]
+    },
+    {
+      "id": "obj-0429",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        5.625,
+        1052.305,
+        39.375
+      ],
+      "rotation_y": 292.342,
+      "scale": [
+        2.679,
+        4.851,
+        3.796
+      ]
+    },
+    {
+      "id": "obj-0430",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        19.688,
+        882.084,
+        -104.062
+      ],
+      "rotation_y": 262.562,
+      "scale": [
+        2.26,
+        2.739,
+        2.878
+      ]
+    },
+    {
+      "id": "obj-0431",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -90.0,
+        905.092,
+        75.938
+      ],
+      "rotation_y": 10.444,
+      "scale": [
+        1.864,
+        1.541,
+        1.096
+      ]
+    },
+    {
+      "id": "obj-0432",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -25.312,
+        1029.199,
+        53.438
+      ],
+      "rotation_y": 221.318,
+      "scale": [
+        4.147,
+        6.035,
+        3.964
+      ]
+    },
+    {
+      "id": "obj-0433",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -53.438,
+        1069.75,
+        36.562
+      ],
+      "rotation_y": 339.03,
+      "scale": [
+        5.45,
+        4.46,
+        4.307
+      ]
+    },
+    {
+      "id": "obj-0434",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        2.812,
+        886.2,
+        92.812
+      ],
+      "rotation_y": 297.954,
+      "scale": [
+        1.997,
+        2.831,
+        2.262
+      ]
+    },
+    {
+      "id": "obj-0435",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -87.188,
+        1033.059,
+        30.938
+      ],
+      "rotation_y": 334.687,
+      "scale": [
+        4.467,
+        6.196,
+        4.723
+      ]
+    },
+    {
+      "id": "obj-0436",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        75.938,
+        862.294,
+        70.312
+      ],
+      "rotation_y": 57.553,
+      "scale": [
+        2.492,
+        4.021,
+        3.408
+      ]
+    },
+    {
+      "id": "obj-0437",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -16.875,
+        1047.208,
+        53.438
+      ],
+      "rotation_y": 25.549,
+      "scale": [
+        5.338,
+        3.345,
+        4.005
+      ]
+    },
+    {
+      "id": "obj-0438",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        70.312,
+        871.752,
+        -98.438
+      ],
+      "rotation_y": 158.082,
+      "scale": [
+        3.565,
+        3.624,
+        4.28
+      ]
+    },
+    {
+      "id": "obj-0439",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        101.25,
+        844.204,
+        50.625
+      ],
+      "rotation_y": 187.4,
+      "scale": [
+        3.375,
+        5.641,
+        3.509
+      ]
+    },
+    {
+      "id": "obj-0440",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -25.312,
+        889.979,
+        -98.438
+      ],
+      "rotation_y": 275.597,
+      "scale": [
+        1.704,
+        2.724,
+        2.501
+      ]
+    },
+    {
+      "id": "obj-0441",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -118.125,
+        881.466,
+        -59.062
+      ],
+      "rotation_y": 21.853,
+      "scale": [
+        2.768,
+        3.114,
+        2.673
+      ]
+    },
+    {
+      "id": "obj-0442",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -137.812,
+        902.876,
+        -14.062
+      ],
+      "rotation_y": 155.703,
+      "scale": [
+        4.732,
+        6.424,
+        4.456
+      ]
+    },
+    {
+      "id": "obj-0443",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        2.812,
+        903.326,
+        81.562
+      ],
+      "rotation_y": 31.512,
+      "scale": [
+        4.595,
+        4.611,
+        5.116
+      ]
+    },
+    {
+      "id": "obj-0444",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -129.375,
+        941.335,
+        22.5
+      ],
+      "rotation_y": 86.168,
+      "scale": [
+        3.259,
+        3.137,
+        3.595
+      ]
+    },
+    {
+      "id": "obj-0445",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -61.875,
+        1050.78,
+        45.0
+      ],
+      "rotation_y": 359.164,
+      "scale": [
+        2.542,
+        2.887,
+        2.799
+      ]
+    },
+    {
+      "id": "obj-0446",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        -36.562,
+        865.294,
+        -106.875
+      ],
+      "rotation_y": 276.419,
+      "scale": [
+        4.57,
+        7.12,
+        3.953
+      ]
+    },
+    {
+      "id": "obj-0447",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "kiln",
+      "position": [
+        123.75,
+        861.131,
+        -42.188
+      ],
+      "rotation_y": 319.311,
+      "scale": [
+        3.585,
+        4.844,
+        3.174
+      ]
+    },
+    {
+      "id": "obj-0448",
+      "kind": "hot_rock",
+      "category": "vegetation",
+      "biome": "kiln",
+      "position": [
+        -104.062,
+        959.489,
+        -16.875
+      ],
+      "rotation_y": 353.179,
+      "scale": [
+        1.716,
+        1.674,
+        1.116
+      ]
+    },
+    {
+      "id": "obj-0449",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "summit",
+      "position": [
+        -30.938,
+        1158.182,
+        -14.062
+      ],
+      "rotation_y": 309.855,
+      "scale": [
+        18.39,
+        21.077,
+        21.358
+      ]
+    },
+    {
+      "id": "obj-0450",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "summit",
+      "position": [
+        2.812,
+        1161.279,
+        5.625
+      ],
+      "rotation_y": 95.129,
+      "scale": [
+        8.548,
+        15.859,
+        9.936
+      ]
+    },
+    {
+      "id": "obj-0451",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "summit",
+      "position": [
+        0.0,
+        1152.578,
+        -30.938
+      ],
+      "rotation_y": 257.552,
+      "scale": [
+        18.709,
+        17.16,
+        17.884
+      ]
+    },
+    {
+      "id": "obj-0452",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "summit",
+      "position": [
+        -39.375,
+        1154.138,
+        19.688
+      ],
+      "rotation_y": 43.014,
+      "scale": [
+        16.47,
+        17.973,
+        13.186
+      ]
+    },
+    {
+      "id": "obj-0453",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "summit",
+      "position": [
+        25.312,
+        1146.293,
+        14.062
+      ],
+      "rotation_y": 343.759,
+      "scale": [
+        17.887,
+        23.09,
+        19.046
+      ]
+    },
+    {
+      "id": "obj-0454",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "summit",
+      "position": [
+        25.312,
+        1151.969,
+        -14.062
+      ],
+      "rotation_y": 349.444,
+      "scale": [
+        28.871,
+        37.694,
+        30.967
+      ]
+    },
+    {
+      "id": "obj-0455",
+      "kind": "large_rock",
+      "category": "large",
+      "biome": "summit",
+      "position": [
+        -53.438,
+        1150.865,
+        -2.812
+      ],
+      "rotation_y": 135.0,
+      "scale": [
+        17.517,
+        22.006,
+        15.781
+      ]
+    },
+    {
+      "id": "obj-0456",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        -36.562,
+        1154.428,
+        -16.875
+      ],
+      "rotation_y": 56.318,
+      "scale": [
+        8.892,
+        8.006,
+        8.911
+      ]
+    },
+    {
+      "id": "obj-0457",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        8.438,
+        1159.539,
+        2.812
+      ],
+      "rotation_y": 339.48,
+      "scale": [
+        9.309,
+        12.608,
+        9.657
+      ]
+    },
+    {
+      "id": "obj-0458",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        -28.125,
+        1162.696,
+        5.625
+      ],
+      "rotation_y": 5.043,
+      "scale": [
+        7.21,
+        7.593,
+        7.071
+      ]
+    },
+    {
+      "id": "obj-0459",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        16.875,
+        1150.821,
+        -28.125
+      ],
+      "rotation_y": 6.748,
+      "scale": [
+        7.023,
+        6.693,
+        6.2
+      ]
+    },
+    {
+      "id": "obj-0460",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        -42.188,
+        1150.799,
+        25.312
+      ],
+      "rotation_y": 322.512,
+      "scale": [
+        5.608,
+        9.673,
+        4.822
+      ]
+    },
+    {
+      "id": "obj-0461",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        8.438,
+        1157.577,
+        -19.688
+      ],
+      "rotation_y": 234.306,
+      "scale": [
+        8.19,
+        6.48,
+        10.241
+      ]
+    },
+    {
+      "id": "obj-0462",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        -50.625,
+        1147.067,
+        -19.688
+      ],
+      "rotation_y": 302.01,
+      "scale": [
+        8.704,
+        9.191,
+        6.229
+      ]
+    },
+    {
+      "id": "obj-0463",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        -16.875,
+        1163.565,
+        -14.062
+      ],
+      "rotation_y": 325.988,
+      "scale": [
+        5.284,
+        8.547,
+        4.837
+      ]
+    },
+    {
+      "id": "obj-0464",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        -11.25,
+        1154.593,
+        -28.125
+      ],
+      "rotation_y": 36.788,
+      "scale": [
+        4.825,
+        5.212,
+        5.796
+      ]
+    },
+    {
+      "id": "obj-0465",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        -5.625,
+        1163.034,
+        8.438
+      ],
+      "rotation_y": 95.258,
+      "scale": [
+        8.451,
+        16.583,
+        12.208
+      ]
+    },
+    {
+      "id": "obj-0466",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        25.312,
+        1147.569,
+        11.25
+      ],
+      "rotation_y": 298.349,
+      "scale": [
+        8.147,
+        9.378,
+        9.533
+      ]
+    },
+    {
+      "id": "obj-0467",
+      "kind": "medium_rock",
+      "category": "medium",
+      "biome": "summit",
+      "position": [
+        16.875,
+        1146.964,
+        19.688
+      ],
+      "rotation_y": 109.979,
+      "scale": [
+        8.258,
+        5.624,
+        8.217
+      ]
+    },
+    {
+      "id": "obj-0468",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        11.25,
+        1152.403,
+        -28.125
+      ],
+      "rotation_y": 291.769,
+      "scale": [
+        3.673,
+        3.219,
+        3.275
+      ]
+    },
+    {
+      "id": "obj-0469",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        5.625,
+        1151.896,
+        -30.938
+      ],
+      "rotation_y": 32.029,
+      "scale": [
+        4.422,
+        3.124,
+        4.107
+      ]
+    },
+    {
+      "id": "obj-0470",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -8.438,
+        1150.731,
+        -33.75
+      ],
+      "rotation_y": 230.077,
+      "scale": [
+        3.457,
+        5.355,
+        5.129
+      ]
+    },
+    {
+      "id": "obj-0471",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -22.5,
+        1156.426,
+        -22.5
+      ],
+      "rotation_y": 135.6,
+      "scale": [
+        4.978,
+        3.081,
+        3.428
+      ]
+    },
+    {
+      "id": "obj-0472",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -14.062,
+        1164.597,
+        8.438
+      ],
+      "rotation_y": 295.321,
+      "scale": [
+        4.099,
+        5.606,
+        4.122
+      ]
+    },
+    {
+      "id": "obj-0473",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -47.812,
+        1148.297,
+        -19.688
+      ],
+      "rotation_y": 202.729,
+      "scale": [
+        5.269,
+        6.027,
+        3.495
+      ]
+    },
+    {
+      "id": "obj-0474",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -53.438,
+        1151.241,
+        0.0
+      ],
+      "rotation_y": 336.669,
+      "scale": [
+        3.552,
+        4.517,
+        3.37
+      ]
+    },
+    {
+      "id": "obj-0475",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -33.75,
+        1158.099,
+        14.062
+      ],
+      "rotation_y": 86.862,
+      "scale": [
+        1.795,
+        1.957,
+        2.093
+      ]
+    },
+    {
+      "id": "obj-0476",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        22.5,
+        1152.768,
+        -16.875
+      ],
+      "rotation_y": 308.343,
+      "scale": [
+        2.447,
+        3.422,
+        2.88
+      ]
+    },
+    {
+      "id": "obj-0477",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        36.562,
+        1146.519,
+        -5.625
+      ],
+      "rotation_y": 158.703,
+      "scale": [
+        2.396,
+        4.536,
+        2.738
+      ]
+    },
+    {
+      "id": "obj-0478",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -56.25,
+        1150.048,
+        8.438
+      ],
+      "rotation_y": 274.618,
+      "scale": [
+        4.285,
+        4.037,
+        5.379
+      ]
+    },
+    {
+      "id": "obj-0479",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        16.875,
+        1146.232,
+        -36.562
+      ],
+      "rotation_y": 34.916,
+      "scale": [
+        2.239,
+        2.814,
+        2.183
+      ]
+    },
+    {
+      "id": "obj-0480",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        -2.812,
+        1167.352,
+        -2.812
+      ],
+      "rotation_y": 229.889,
+      "scale": [
+        1.975,
+        1.762,
+        1.424
+      ]
+    },
+    {
+      "id": "obj-0481",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        30.938,
+        1146.02,
+        8.438
+      ],
+      "rotation_y": 119.377,
+      "scale": [
+        3.869,
+        4.998,
+        4.446
+      ]
+    },
+    {
+      "id": "obj-0482",
+      "kind": "small_rock",
+      "category": "small",
+      "biome": "summit",
+      "position": [
+        8.438,
+        1147.851,
+        -36.562
+      ],
+      "rotation_y": 326.913,
+      "scale": [
+        5.842,
+        7.96,
+        3.966
+      ]
+    },
+    {
+      "id": "obj-0483",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        36.562,
+        1146.361,
+        -16.875
+      ],
+      "rotation_y": 347.183,
+      "scale": [
+        1.714,
+        1.224,
+        1.833
+      ]
+    },
+    {
+      "id": "obj-0484",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -8.438,
+        1159.905,
+        14.062
+      ],
+      "rotation_y": 167.214,
+      "scale": [
+        2.102,
+        3.208,
+        2.715
+      ]
+    },
+    {
+      "id": "obj-0485",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -33.75,
+        1160.668,
+        0.0
+      ],
+      "rotation_y": 266.357,
+      "scale": [
+        1.06,
+        1.748,
+        1.074
+      ]
+    },
+    {
+      "id": "obj-0486",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -47.812,
+        1153.896,
+        8.438
+      ],
+      "rotation_y": 284.347,
+      "scale": [
+        1.402,
+        1.451,
+        1.322
+      ]
+    },
+    {
+      "id": "obj-0487",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -39.375,
+        1157.957,
+        0.0
+      ],
+      "rotation_y": 129.863,
+      "scale": [
+        0.812,
+        1.007,
+        0.774
+      ]
+    },
+    {
+      "id": "obj-0488",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        11.25,
+        1158.575,
+        -14.062
+      ],
+      "rotation_y": 187.139,
+      "scale": [
+        1.699,
+        1.001,
+        1.279
+      ]
+    },
+    {
+      "id": "obj-0489",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -28.125,
+        1147.358,
+        -33.75
+      ],
+      "rotation_y": 49.999,
+      "scale": [
+        1.721,
+        2.434,
+        2.276
+      ]
+    },
+    {
+      "id": "obj-0490",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -11.25,
+        1168.216,
+        2.812
+      ],
+      "rotation_y": 6.607,
+      "scale": [
+        2.443,
+        3.202,
+        2.659
+      ]
+    },
+    {
+      "id": "obj-0491",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -16.875,
+        1159.11,
+        16.875
+      ],
+      "rotation_y": 135.342,
+      "scale": [
+        1.653,
+        2.02,
+        1.704
+      ]
+    },
+    {
+      "id": "obj-0492",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -11.25,
+        1148.501,
+        -36.562
+      ],
+      "rotation_y": 346.086,
+      "scale": [
+        1.419,
+        1.503,
+        1.442
+      ]
+    },
+    {
+      "id": "obj-0493",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -53.438,
+        1151.241,
+        0.0
+      ],
+      "rotation_y": 301.579,
+      "scale": [
+        0.764,
+        0.892,
+        0.745
+      ]
+    },
+    {
+      "id": "obj-0494",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -45.0,
+        1149.505,
+        -19.688
+      ],
+      "rotation_y": 348.111,
+      "scale": [
+        1.533,
+        1.817,
+        1.38
+      ]
+    },
+    {
+      "id": "obj-0495",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        28.125,
+        1147.001,
+        -28.125
+      ],
+      "rotation_y": 322.77,
+      "scale": [
+        1.543,
+        2.014,
+        1.504
+      ]
+    },
+    {
+      "id": "obj-0496",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -59.062,
+        1148.759,
+        2.812
+      ],
+      "rotation_y": 58.537,
+      "scale": [
+        1.889,
+        1.848,
+        1.858
+      ]
+    },
+    {
+      "id": "obj-0497",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        25.312,
+        1149.758,
+        5.625
+      ],
+      "rotation_y": 251.854,
+      "scale": [
+        0.745,
+        0.746,
+        0.706
+      ]
+    },
+    {
+      "id": "obj-0498",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        33.75,
+        1148.123,
+        -8.438
+      ],
+      "rotation_y": 338.69,
+      "scale": [
+        2.007,
+        2.504,
+        2.259
+      ]
+    },
+    {
+      "id": "obj-0499",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -14.062,
+        1150.785,
+        28.125
+      ],
+      "rotation_y": 251.975,
+      "scale": [
+        1.409,
+        1.894,
+        2.037
+      ]
+    },
+    {
+      "id": "obj-0500",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -5.625,
+        1166.174,
+        -11.25
+      ],
+      "rotation_y": 178.273,
+      "scale": [
+        0.772,
+        1.68,
+        1.388
+      ]
+    },
+    {
+      "id": "obj-0501",
+      "kind": "summit_grass",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -2.812,
+        1160.372,
+        -19.688
+      ],
+      "rotation_y": 105.225,
+      "scale": [
+        2.361,
+        1.82,
+        2.226
+      ]
+    },
+    {
+      "id": "obj-0502",
+      "kind": "wildflowers",
+      "category": "vegetation",
+      "biome": "summit",
+      "position": [
+        -45.0,
+        1154.909,
+        -2.812
+      ],
+      "rotation_y": 282.636,
+      "scale": [
+        0.87,
+        1.087,
+        1.0
+      ]
+    }
+  ]
+}
